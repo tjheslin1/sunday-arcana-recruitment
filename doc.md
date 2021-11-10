@@ -17,6 +17,7 @@ Unlike the features in the Player’s Handbook, you don’t gain the features he
 ### Recruitment
 
 _Nth-level feature_
+<div style='margin-top:0px'></div>
 
 Once you reach this level you can start to recruit followers.
 
@@ -27,21 +28,38 @@ Some examples of a Sidekicks are:
 
 - A Spellcasting sidekick with the _Role_ of Healer who worships the same diety as you;
 devoting their time to prayer and the upkeep of your diety's local Temple.
+
 - An Expert sidekick proficient in persuasion who tracks down rare and magical items and reagents
 necessary for your adventures.
+
 - A Spellcasting sidekick with the _Role_ of Mage who has studied a school of magic under your guidance
 and is now capable of their own research as well as undertaking adenturing tasks you have assigned them.
+
+Beyond what is required as a minimum, any additional investment increases the likelihood
+that your followers survive to gain higher levels and achieve your goals.
+
+- A Warrior sidekick leading a group of followers into a dungeion may be provided with
+a [weapon of warning](https://www.dndbeyond.com/magic-items/weapon-of-warning),
+or similar magic item, to increase their survivability.
+- A Spellcaster sidekick with the Mage _Role_ can be supplied with the materials
+necessary to copy new spells into their spellbook.
+- An Expert sidekick performing an act of burglary on your behalf could be
+given a [potion of invisibility](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
+to increase their chance of success.
 
 Followers you recruit that have existing statistics detailed in a stat block can be recruited,
 but must be approved by your DM.
 
-# Warlock
+## Barbarian
+
+## Warlock
 
 When you choose eldritch invocations, you have access to these additional options.
 
-### Wordly Patron
+### wordly Patron
 
 _Prerequisite: 15th-level warlock; at least one recruited follower_
+<div style='margin-top:0px'></div>
 
 Rather than wait until your patron extends an offer to your follower,
 you strike a bargain with a follower of your choice and becomes their patron.
