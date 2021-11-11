@@ -136,9 +136,19 @@ They gain an additional Fighting Style from the Fighter's list at 10th-level of 
 
 The Warrior cannot take a Fighting Style option more than once, even if you later get to choose again.
 
+### Natural leader
+
+_Prerequisite: at least one recruited follower that is a Warrior sidekick_
+<div style='margin-top:0px'></div>
+
+A Warrior follower of yours has received further training alongside their martial practice with you.
+Under your guidance they are a ideal candidate as leader of their party.
+
+Under their leadership, the party tends to be more organised, and successful.
+When rolling on the _Adventure success_ table in [Appendix A](#p3), during their next adventure,
+you may roll twice, keeping both rewards.
+
 ## Sorceror
-
-
 
 ## Warlock
 
