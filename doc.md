@@ -49,12 +49,12 @@ Beyond what is required as a minimum, any additional investment increases the li
 that your followers survive to gain higher levels and achieve your goals.
 
 - A Warrior sidekick leading a group of followers into a dungeion may be provided with
-a [weapon of warning](https://www.dndbeyond.com/magic-items/weapon-of-warning),
+a [_**weapon of warning**_](https://www.dndbeyond.com/magic-items/weapon-of-warning),
 or similar magic item, to increase their survivability.
 - A Spellcaster sidekick with the Mage _Role_ can be supplied with the materials
 necessary to copy new spells into their spellbook.
 - An Expert sidekick performing an act of burglary on your behalf could be
-given a [potion of invisibility](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
+given a [_**potion of invisibility**_](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
 to increase their chance of success.
 
 <div style='margin-top:140px'></div>
@@ -88,6 +88,8 @@ or an anmial spirit that travels with the group as long as they remain out of co
 
 
 \page
+
+<div class='pageNumber auto'></div>
 
 ## Warlock
 
@@ -132,3 +134,20 @@ As patron of this follower:
 > Amafey has been following the Fathomless Warlock, Luth, for a few tendays and awakes to the strange sensation of an offer of a pact with Luth.
 >
 > Upon accepting - her statistics remain unchanged - she takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes a 1st-level spell, from the warlock spell list: [_**hex**_](https://www.dndbeyond.com/spells/hex).
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Appendix A: Follower adventure outcome
+
+<div class='wide'>
+##### Adventure success
+| d100 | Outcome |
+|:----:|:-------------|
+| 1  | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 2-59 | 2d10gp obtained. |
+| 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
+	| 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
+| 100 | All followers gain a level. Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
+</div>
