@@ -143,9 +143,9 @@ Their arcane research and the magic bestowed by you increase, or otherwise grant
 
 The creature gains a level, becoming a sidekick Spellcaster with the _Role_ of Prodigy.
 Any previous features of another type of sidekick are replaced by those gained as a Prodigy.
-Any existing weapon, armour and tool proficiencies remain and the follower retains all gear and equipment.
+Any existing weapon, armour and tool proficiencies remain, with the exception of heavy armour proficiency. The follower retains all gear and equipment.
 
-The Prodigy chooses their spells from the warlock spell list.
+Having taken this pact with the player, the Prodigy chooses their spells from the warlock spell list.
 
 <div style='margin-top:0px'></div>
 
@@ -153,9 +153,9 @@ As patron of this follower:
 - You have advantage on Charsima ability checks, made to guide or convince your Prodigy provided that they can see or hear you.
 
 > #### Prodigy Example: _Amafey_
-> Amafey has been following the Fathomless Warlock, Luth, for a few tendays and awakes to the strange sensation of an offer of a pact with Luth.
+> Amafey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafey awakes to the strange sensation of an offer of a pact with Luth.
 >
-> Upon accepting - her statistics remain unchanged - she takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes a 1st-level spell, from the warlock spell list: [_**hex**_](https://www.dndbeyond.com/spells/hex).
+> Upon accepting she gains a level and is now a 2nd-level Prodigy sidekick. Amafey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
 
 \page
 
