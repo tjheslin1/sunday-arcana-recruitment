@@ -136,24 +136,17 @@ you may roll twice, keeping both rewards.
   src='https://www.dndbeyond.com/attachments/3/173/c1033.png'
   style='position:absolute; opacity: 30%; top:50px; right:30px; width:280px' />
 
-### Eldritch vision
-
-_Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
-
-Calling on the gifts of your pact, you bestow a vision to a follower of your choice.
-The vision provides information that the follower otherwise would not know in as much detail,
-or possibly not at all.
-
-Using the vision you can guide the follower to a location otherwise hard to find,
-guide the follower in how to approach a task, such in combatting a foe, or any other visual depiction.
-
-
-Once you have used this feature you cannot use it again until you have completed a long rest.
-
 ### Eldritch Invocation Options
 
 When you choose eldritch invocations, you have access to these additional options.
+
+#### Investment of the Recruiter
+
+_Prerequisite: 10th-level warlock; at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+You can cast [_**dream**_](https://www.dndbeyond.com/spells/dream) once,
+targeting one of your followers without expending a spell slot. You regain the ability to do so when you finish a long rest.
 
 #### Patron of this world
 
