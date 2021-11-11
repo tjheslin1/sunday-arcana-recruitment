@@ -23,8 +23,6 @@ possibly their own adventures, which align with the desires of the player.
 
 ### Recruitment
 
-
-
 _10th-level feature_
 <div style='margin-top:0px'></div>
 
@@ -72,7 +70,7 @@ but must be approved by your DM.
 
 ## Barbarian
 
-### Motivation by fear
+### Motivated by fear
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
@@ -81,8 +79,27 @@ You can spend a point of rage to... inspire... one of your followers to succeed 
 
 The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p3), you can reroll; you must keep the new role.
 
-
 ## Cleric
+
+### Unbreakable devotion
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+Leading by example, your devotion to your diety is emulated by your followers.
+
+Whilst out in the world your followers are more likely to recruit others to join them.
+
+### Channel Divinity: Unbreakable devotion
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+You can use your Channel Divinity to reassert the benefits of devotion to your diety.
+
+As an action, you present your holy symbol, and your followers that can see or hear you within 30 feet
+are bolstered within a divine confidence. With this your followers will not leave their party out of fear,
+a possible result when rolling on the _Adventure failure_ table in [Appendix A](#p3), during their next adventure.
 
 ## Druid
 
@@ -98,14 +115,30 @@ _Prerequisite: at least one recruited follower_
 You can expend a use of your Wild Shape feature to guide any followers within 50 miles of you on their travels.
 For the next 8 hours they can travel twice as far across any natural ground and ignore difficult terrain.
 
-Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths of a  forest,
+Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths of a forest,
 a steady, sweet smelling, breeze that blows across fields towards a hidden mountain path
 or an anmial spirit that travels with the group as long as they remain out of combat.
-
 
 \page
 
 <div class='pageNumber auto'></div>
+
+## Fighter
+
+### Trained warrior
+
+_Prerequisite: at least one recruited follower that is a Warrior sidekick_
+<div style='margin-top:0px'></div>
+
+After spending time training your Warrior sidekick they gain a Fighting Style from the Fighter's list.
+
+They gain an additional Fighting Style from the Fighter's list at 10th-level of Warrior.
+
+The Warrior cannot take a Fighting Style option more than once, even if you later get to choose again.
+
+## Sorceror
+
+
 
 ## Warlock
 
@@ -137,6 +170,9 @@ When you choose eldritch invocations, you have access to these additional option
 _Prerequisite: 15th-level warlock; at least one recruited follower_
 <div style='margin-top:0px'></div>
 
+You can take this eldritch invocation multiple times.
+<div style='margin-top:0px'></div>
+
 Rather than wait until your patron extends an offer to those you have recruited,
 you strike a bargain with a follower of your choice and become their patron.
 Their arcane research and the magic bestowed by you increase, or otherwise grant, them facility with spells.
@@ -150,7 +186,13 @@ Having taken this pact with the player, the Prodigy chooses their spells from th
 <div style='margin-top:0px'></div>
 
 As patron of this follower:
-- You have advantage on Charsima ability checks, made to guide or convince your Prodigy provided that they can see or hear you.
+- You have advantage on Charsima ability checks, made to guide or convince your Prodigy provided that they can see or hear you within 60 feet.
+
+<div style='margin-top:0px'></div>
+
+You cannot change this eldritch invocation whilst you have a pact with a follower.
+If the Profigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
+another of your followers.
 
 > #### Prodigy Example: _Amafey_
 > Amafey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafey awakes to the strange sensation of an offer of a pact with Luth.
@@ -174,12 +216,13 @@ As patron of this follower:
 | 100 | All followers gain a level. Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 </div>
 
-
 <div class='wide'>
 ##### Adventure failure
 | d100 | Outcome |
 |:------:|:-------------|
 | 1 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
-| 2- 99 | ... |
+| 2 - 89 | ... |
+| 90 - 94 | One randomly determined follower leaves the party out of fear. |
+| 95 - 99 | One randomly determined follower dies. |
 | 100 | Total party kill of followers. |
 </div>
