@@ -66,6 +66,16 @@ but must be approved by your DM.
 
 ## Barbarian
 
+### Motivation by fear
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+You can spend a point of rage to... inspire... one of your followers to succeed in their next adventure.
+
+The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p3), you can reroll; you must keep the new role.
+
+
 ## Cleric
 
 ## Druid
@@ -93,6 +103,10 @@ or an anmial spirit that travels with the group as long as they remain out of co
 
 ## Warlock
 
+<img
+  src='https://www.dndbeyond.com/attachments/3/173/c1033.png'
+  style='position:absolute; opacity: 30%; top:50px; right:30px; width:280px' />
+
 ### Eldritch vision
 
 _Prerequisite: at least one recruited follower_
@@ -119,18 +133,20 @@ _Prerequisite: 15th-level warlock; at least one recruited follower_
 
 Rather than wait until your patron extends an offer to those you have recruited,
 you strike a bargain with a follower of your choice and become their patron.
+Their arcane research and the magic bestowed by you increase, or otherwise grant, them facility with spells.
 
-Their arcane research and the magic bestowed by you have given them facility with spells.
+The creature gains a level, becoming a sidekick Spellcaster with the _Role_ of Prodigy.
+Any previous features of another type of sidekick are replaced by those gained as a Prodigy.
+Any existing weapon, armour and tool proficiencies remain and the follower retains all gear and equipment.
 
-The creature gains the statistics of a 1st-level sidekick Spellcaster with the _Role_ of Prodigy;
-they choose their spells from the warlock spell list.
+The Prodigy chooses their spells from the warlock spell list.
 
-The Prodigy knows two cantrips and one 1st-level spell of their choice from its spell list.
+<div style='margin-top:0px'></div>
 
 As patron of this follower:
 - You have advantage on Charsima ability checks, made to guide or convince your Prodigy provided that they can see or hear you.
 
-> #### Prodigy Example: Amafey
+> #### Prodigy Example: _Amafey_
 > Amafey has been following the Fathomless Warlock, Luth, for a few tendays and awakes to the strange sensation of an offer of a pact with Luth.
 >
 > Upon accepting - her statistics remain unchanged - she takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes a 1st-level spell, from the warlock spell list: [_**hex**_](https://www.dndbeyond.com/spells/hex).
@@ -139,15 +155,31 @@ As patron of this follower:
 
 <div class='pageNumber auto'></div>
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+</style>
+
 # Appendix A: Follower adventure outcome
 
 <div class='wide'>
 ##### Adventure success
 | d100 | Outcome |
-|:----:|:-------------|
-| 1  | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+|:------|:-------------|
+| 1 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
 | 2-59 | 2d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 	| 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 | 100 | All followers gain a level. Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
+</div>
+
+
+<div class='wide'>
+##### Adventure failure
+| d100 | Outcome |
+|:------|:-------------|
+| 1 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
+| 2- 99 | ... |
+| 100 | Total party kill of followers. |
 </div>
