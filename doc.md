@@ -81,15 +81,6 @@ The next time the follower is involved in an adventure that results in rolling o
 
 ## Cleric
 
-### Unbreakable devotion
-
-_Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
-
-Leading by example, your devotion to your diety is emulated by your followers.
-
-Whilst out in the world your followers are more likely to recruit others to join them.
-
 ### Channel Divinity: Unbreakable devotion
 
 _Prerequisite: at least one recruited follower_
@@ -142,9 +133,9 @@ _Prerequisite: at least one recruited follower that is a Warrior sidekick_
 <div style='margin-top:0px'></div>
 
 A Warrior follower of yours has received further training alongside their martial practice with you.
-Under your guidance they are a ideal candidate as leader of their party.
+Under your guidance they are an ideal candidate as leader of their party.
 
-Under their leadership, the party tends to be more organised, and successful.
+With leadership, the party tends to be more organised, and successful.
 When rolling on the _Adventure success_ table in [Appendix A](#p3), during their next adventure,
 you may roll twice, keeping both rewards.
 
