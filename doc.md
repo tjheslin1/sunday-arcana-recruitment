@@ -134,7 +134,7 @@ you may roll twice, keeping both rewards.
 
 <img
   src='https://www.dndbeyond.com/attachments/3/173/c1033.png'
-  style='position:absolute; opacity: 30%; top:50px; right:30px; width:280px' />
+  style='position:absolute; opacity: 30%; bottom:50px; right:30px; width:280px' />
 
 ### Eldritch Invocation Options
 
@@ -209,3 +209,7 @@ another of your followers.
 | 95 - 99 | One randomly determined follower dies. |
 | 100 | Total party kill of followers. |
 </div>
+
+<img
+  src='https://www.dndbeyond.com/attachments/0/870/c7c-01.png'
+  style='position:absolute; opacity:50%; bottom:50px; width: 88%' />
