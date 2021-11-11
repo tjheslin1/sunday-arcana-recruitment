@@ -140,7 +140,7 @@ you may roll twice, keeping both rewards.
 
 When you choose eldritch invocations, you have access to these additional options.
 
-#### Investment of the Recruiter
+#### Worldly message
 
 _Prerequisite: 10th-level warlock; at least one recruited follower_
 <div style='margin-top:0px'></div>
