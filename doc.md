@@ -82,7 +82,7 @@ The next time the follower is involved in an adventure that results in rolling o
 
 <img
   src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/01-026.png'
-  style='position:absolute; opacity: 30%; top:50px; right:30px; width:280px' />
+  style='position:absolute; opacity: 20%; bottom:50px; right:30px; width:280px' />
 
 ### Wild Guide
 
