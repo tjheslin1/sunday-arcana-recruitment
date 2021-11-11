@@ -1,25 +1,28 @@
+<div class='pageNumber auto'></div>
 
 # Recruitment
 
 As an adventurer becomes more established in their world it is only inevitable that they
-find followers who wish to join them and emulate their successes.
+come across followers who wish to join them and emulate their successes.
 
-Followers may be bards who tell the stories of the character's conquests, warriors who fight for the same cause
+Followers might be bards who tell the stories of the character's conquests, warriors who fight for the same cause
 or priests who have come to join them in their worship.
 
+<div class='descriptive'>
 Followers are not intended to directly join the party but instead be working towards their own goals,
-possibly adventuring quests, which align with the desires of the player.
-
-Unlike the features in the Player’s Handbook, you don’t gain the features here automatically.
+possibly their own adventures, which align with the desires of the player.
+</div>
 
 ## Optional Class Features
 
 ### Recruitment
 
-_Nth-level feature_
+
+
+_10th-level feature_
 <div style='margin-top:0px'></div>
 
-Once you reach this level you can start to recruit followers.
+When you reach this level, regardless of your class or classes, you can start to recruit followers.
 
 Followers start at 1st-level and have the statistics of a Sidekick,
 detailed in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
@@ -35,6 +38,13 @@ necessary for your adventures.
 - A Spellcasting sidekick with the _Role_ of Mage who has studied a school of magic under your guidance
 and is now capable of their own research as well as undertaking adenturing tasks you have assigned them.
 
+##### Required investment
+| Follower level | Funding |
+|:----:|:-------------|
+| 1st  | 50gp |
+| Each level beyond 1st | additional 50gp |
+
+
 Beyond what is required as a minimum, any additional investment increases the likelihood
 that your followers survive to gain higher levels and achieve your goals.
 
@@ -47,22 +57,66 @@ necessary to copy new spells into their spellbook.
 given a [potion of invisibility](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
 to increase their chance of success.
 
+<div style='margin-top:140px'></div>
+
+<div class='descriptive'>
 Followers you recruit that have existing statistics detailed in a stat block can be recruited,
 but must be approved by your DM.
+	</div>
 
 ## Barbarian
 
+## Cleric
+
+## Druid
+
+<img
+  src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/01-026.png'
+  style='position:absolute; opacity: 30%; top:50px; right:30px; width:280px' />
+
+### Wild Guide
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+You can expend a use of your Wild Shape feature to guide any followers within 50 miles of you on their travels.
+For the next 8 hours they can travel twice as far across any natural ground and ignore difficult terrain.
+
+Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths of a  forest,
+a steady, sweet smelling, breeze that blows across fields towards a hidden mountain path
+or an anmial spirit that travels with the group as long as they remain out of combat.
+
+
+\page
+
 ## Warlock
+
+### Eldritch vision
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+Calling on the gifts of your pact, you bestow a vision to a follower of your choice.
+The vision provides information that the follower otherwise would not know in as much detail,
+or possibly not at all.
+
+Using the vision you can guide the follower to a location otherwise hard to find,
+guide the follower in how to approach a task, such in combatting a foe, or any other visual depiction.
+
+
+Once you have used this feature you cannot use it again until you have completed a long rest.
+
+### Eldritch Invocation Options
 
 When you choose eldritch invocations, you have access to these additional options.
 
-### wordly Patron
+#### Patron of this world
 
 _Prerequisite: 15th-level warlock; at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-Rather than wait until your patron extends an offer to your follower,
-you strike a bargain with a follower of your choice and becomes their patron.
+Rather than wait until your patron extends an offer to those you have recruited,
+you strike a bargain with a follower of your choice and become their patron.
 
 Their arcane research and the magic bestowed by you have given them facility with spells.
 
@@ -71,5 +125,10 @@ they choose their spells from the warlock spell list.
 
 The Prodigy knows two cantrips and one 1st-level spell of their choice from its spell list.
 
-As patron of this follower you can:
-- Communicate with your Prodigy via telepathy and visions, whilst you are on the same plane of existence.
+As patron of this follower:
+- You have advantage on Charsima ability checks, made to guide or convince your Prodigy provided that they can see or hear you.
+
+> #### Prodigy Example: Amafey
+> Amafey has been following the Fathomless Warlock, Luth, for a few tendays and awakes to the strange sensation of an offer of a pact with Luth.
+>
+> Upon accepting - her statistics remain unchanged - she takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes a 1st-level spell, from the warlock spell list: [_**hex**_](https://www.dndbeyond.com/spells/hex).
