@@ -1,3 +1,9 @@
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+</style>
+
 <div class='pageNumber auto'></div>
 
 # Recruitment
@@ -155,18 +161,12 @@ As patron of this follower:
 
 <div class='pageNumber auto'></div>
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-</style>
-
 # Appendix A: Follower adventure outcome
 
 <div class='wide'>
 ##### Adventure success
 | d100 | Outcome |
-|:------|:-------------|
+|:------:|:-------------|
 | 1 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
 | 2-59 | 2d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
@@ -178,7 +178,7 @@ table th:first-of-type {
 <div class='wide'>
 ##### Adventure failure
 | d100 | Outcome |
-|:------|:-------------|
+|:------:|:-------------|
 | 1 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
 | 2- 99 | ... |
 | 100 | Total party kill of followers. |
