@@ -116,17 +116,6 @@ or an anmial spirit that travels with the group as long as they remain out of co
 
 ## Fighter
 
-### Trained warrior
-
-_Prerequisite: at least one recruited follower that is a Warrior sidekick_
-<div style='margin-top:0px'></div>
-
-After spending time training your Warrior sidekick they gain a Fighting Style from the Fighter's list.
-
-They gain an additional Fighting Style from the Fighter's list at 10th-level of Warrior.
-
-The Warrior cannot take a Fighting Style option more than once, even if you later get to choose again.
-
 ### Natural leader
 
 _Prerequisite: at least one recruited follower that is a Warrior sidekick_
