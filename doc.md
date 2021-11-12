@@ -269,3 +269,35 @@ Each magic item, or non-magical piece of adventuring gear above 25gp in value, t
 <img
   src='https://www.dndbeyond.com/attachments/0/870/c7c-01.png'
   style='position:absolute; opacity:50%; bottom:50px; width: 88%' />
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Appendix C: Example followers
+___
+> ## Amafey
+>*Medium humanoid, neutral good*
+> ___
+> - **Armor Class** 15
+> - **Hit Points** 7(1d4 + 5)
+> - **Speed** 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|5 (-2)|3 (-3)|12 (+1)|17 (+4)|14 (+2)|1 (-4)|
+>___
+> - **Senses** passive Perception 13
+> - **Languages** None
+> - **Challenge** 1/2
+> ___
+> ***Spellcasting.*** Amafey is a 2nd-level spellcaster.
+> Her spellcasting ability modifier is Charisma (spell save DC XX, +Y to hit with spell attacks). Amafey has the following spells prepared:
+>
+>Cantrips (at will):
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2)
+
+<img
+  src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
+  style='position:absolute; opacity: 40%; bottom:50px; right:30px; width:280px' />
