@@ -50,7 +50,7 @@ and is now capable of their own research as well as undertaking adenturing tasks
 
 
 Beyond what is required as a minimum, any additional investment increases the likelihood
-that your followers survive to gain higher levels and achieve your goals.
+that followers survive to gain higher levels and achieve your goals.
 
 - A Warrior sidekick leading a group of followers into a dungeion may be provided with
 a [_**weapon of warning**_](https://www.dndbeyond.com/magic-items/weapon-of-warning),
@@ -77,7 +77,7 @@ _Prerequisite: at least one recruited follower_
 
 You can spend a point of rage to... inspire... one of your followers to succeed in their next adventure.
 
-The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p3), you can reroll; you must keep the new role.
+The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix B](#p4), you can reroll; you must keep the new role.
 
 ## Cleric
 
@@ -90,7 +90,7 @@ You can use your Channel Divinity to reassert the benefits of devotion to your d
 
 As an action, you present your holy symbol, and your followers that can see or hear you within 30 feet
 are bolstered within a divine confidence. With this your followers will not leave their party out of fear,
-a possible result when rolling on the _Adventure failure_ table in [Appendix A](#p3), during their next adventure.
+a possible result when rolling on the _Adventure failure_ table in [Appendix B](#p4), during their next adventure.
 
 ## Druid
 
@@ -125,7 +125,7 @@ A Warrior follower of yours has received further training alongside their martia
 Under your guidance they are an ideal candidate as leader of their party.
 
 With leadership, the party tends to be more organised, and successful.
-When rolling on the _Adventure success_ table in [Appendix A](#p3), during their next adventure,
+When rolling on the _Adventure success_ table in [Appendix B](#p4), during their next adventure,
 you may roll twice, keeping both rewards.
 
 ## Sorceror
