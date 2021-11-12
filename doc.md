@@ -186,7 +186,63 @@ another of your followers.
 
 <div class='pageNumber auto'></div>
 
-# Appendix A: Follower adventure outcome
+# Appendix A: Follower adventures
+
+Followers might be encouraged to devote their time to trade, selling magic items aquired by the player,
+or huntting down a desired artifact; prayer at a local temple, in service to your shared diety; study,
+at an office established by the player or a university; or any other time consuming task that the player
+has convinced them is a worthy endeavour.
+
+Followers not dedicated to a task such as these, will likely spend their time
+adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
+
+Followers may adventure to:
+
+- Track down and eliminate a group of goblins that fled during their last encounter with the player.
+
+- Scout an area in search of a shrine or enemy encampment.
+
+- Delve into a dungeon discovered by the player, who is unable to devote time to exploring it
+or intentionally challenges their followers with the task.
+
+### Preparation
+
+Preparation is often key to the success of an adventure, without which followers might meet an intimely,
+and quick, end.
+
+Like all adventures, lucky also plays an element but can be influenced in the right, or wrong,
+direction depending on how the followers take on their task.
+
+The guidance from the player and possibly a monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) , followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise.
+
+##### Player investment
+| Chance of success | Player investment |
+|:----:|:-------------|
+| -5 | None |
+| 0 | Basic advice |
+| +5 | 20gp |
+| +10 | 50gp |
+| +50 | 200gp |
+
+Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve.
+
+Each magic item, or non-magical piece of adventuring gear above 25gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
+
+##### Follower equipment
+| Chance of success | Number of items |
+|:----:|:-------------|
+| 0 | 0 |
+| 5 | 1 |
+| +5 | 2 |
+| +10 | 3 |
+| +50 | 5+ |
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Appendix B: Follower adventure outcome
 
 <div class='wide'>
 ##### Adventure success
