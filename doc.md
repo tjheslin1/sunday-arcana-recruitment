@@ -42,7 +42,7 @@ necessary for your adventures.
 - A Spellcasting sidekick with the _Role_ of Mage who has studied a school of magic under your guidance
 and is now capable of their own research as well as undertaking adenturing tasks you have assigned them.
 
-##### Required investment
+##### Required starting investment
 | Follower level | Funding |
 |:----:|:-------------|
 | 1st  | 50gp |
@@ -67,6 +67,66 @@ to increase their chance of success.
 Followers you recruit that have existing statistics detailed in a stat block can be recruited,
 but must be approved by your DM.
 	</div>
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Creating a follower
+
+The Dungeon Master's Tools chapter of
+[Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#CreatingaSidekick)
+has the full guide on creating a sidekick. Below is a rough and quick guide to creating a sidekick of each type.
+
+## Expert
+
+Start with the statistics of a [_**Scout**_](https://www.dndbeyond.com/monsters/scout),
+removing _**Keen Hearing and Sight**_ and _**Multiattack**_, with hit points equal to 11 (2d8 + 2),
+and keeping their physical and mental attributes unchanged or rolling new statistics (3d6 per attribute).
+Choose an appropriate Humanoid type and alignment.
+
+As a 1st-level Expert, gain saving throw, skill, weapon and armour proficiencies according to
+[Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies).
+
+The Expert has the [_**Helpful**_](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Helpful) feature.
+
+## Spellcaster
+
+Start with the statistics of an [_**Acolyte**_](https://www.dndbeyond.com/monsters/acolyte),
+keeping their physical and mental attributes unchanged or rolling new statistics (3d6 per attribute).
+Choose an appropriate Humanoid type and alignment.
+
+As a 1st-level Spellcaster, gain saving throw, skill, weapon and armour proficiencies according to
+[Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies1).
+
+The Spellcaster's known spells are replaced by those from a class list, in the [Spellcasting Table (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#SpellcastingTable) dependant on the chosen _Role_: Mage, Healer or Prodigy,
+as is the spellcasting ability.
+
+## Warrior
+
+Start with the statistics of a [_**Hobgoblin**_](https://www.dndbeyond.com/monsters/hobgoblin),
+removing _**Darkvision**_ and _**Martial Advantage**_, and keeping their physical and mental attributes
+unchanged or rolling new statistics (3d6 per attribute). Choose an appropriate Humanoid type and alignment.
+
+As a 1st-level Warrior, gain saving throw, skill, weapon and armour proficiencies according to
+[Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies2).
+
+Choose a Martial Role: Attack or Defender.
+
+> #### Warrior Example: _Amafey_
+> Amafey starts with the statistic of a Hobgoblin. Her statistics re-rolled to: 9,13,9,18,9,9.
+> She is a Humanoid (Human), neutral good.
+>
+> She gains proficiency in Constitution saving throws, Athletics and Nature,
+all armour as well as simple and martial weapons.
+>
+> Amafey chooses the Defender as her Martial Role.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Class Features
 
 ## Artificer
 
@@ -110,11 +170,7 @@ You can use your Channel Divinity to reassert the benefits of devotion to your d
 
 As an action, you present your holy symbol, and your followers that can see or hear you within 30 feet
 are bolstered within a divine confidence. With this your followers will not leave their party out of fear,
-a possible result when rolling on the _Adventure failure_ table in [Appendix B](#p4), during their next adventure.
-
-\page
-
-<div class='pageNumber auto'></div>
+a possible result when rolling on an _Adventure failure_ table in [Appendix B](#p4), during their next adventure.
 
 ## Druid
 
@@ -145,7 +201,7 @@ A Warrior follower of yours has received further training alongside their martia
 Under your guidance they are an ideal candidate as leader of their party.
 
 With leadership, the party tends to be more organised, and successful.
-When rolling on the _Adventure success_ table in [Appendix B](#p4), during their next adventure,
+When rolling on an _Adventure success_ table in [Appendix B](#p4), during their next adventure,
 you may roll twice, keeping both rewards.
 
 ## Monk
@@ -161,6 +217,10 @@ _Prerequisite: at least one recruited follower_
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
+
+\page
+
+<div class='pageNumber auto'></div>
 
 ## Rogue
 
@@ -183,12 +243,7 @@ An unreported adventure might take the form of an undercover, intelligence gathe
 an assassination or burglary, after which the follower might hide out for a period of time afterwards;
 or travel to a location that requires speed and stealth.
 
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Sorceror
-
 
 ### ?
 
@@ -288,26 +343,40 @@ direction depending on how the followers take on their task.
 The guidance from the player and possibly a monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) , followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise.
 
 ##### Player investment
-| Chance of success | Player investment |
+| Adventure roll modifier | Player investment |
 |:----:|:-------------|
 | -5 | None |
-| 0 | Basic advice |
+| +1 | Basic advice |
 | +5 | 20gp |
 | +10 | 50gp |
-| +50 | 200gp |
+| +20 | 100gp+ |
 
 Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve.
 
 Each magic item, or non-magical piece of adventuring gear above 25gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
 
 ##### Follower equipment
-| Chance of success | Number of items |
+| Adventure roll modifier | Number of items |
 |:----:|:-------------|
 | 0 | 0 |
-| 5 | 1 |
-| +5 | 2 |
-| +10 | 3 |
-| +50 | 5+ |
+| +5 | 1 |
+| +10 | 2 |
+| +15 | 3 |
+| +20 | 4+ |
+
+##### Follower adventure: Challenge 0-4
+| d100 | Result |
+|:----:|:-------------|
+| 1-30 | Roll on the _Adventure failure: Challenge 0-4_ table in [Appendix B](#p4) |
+| 31-79 | Adventure is delayed by d4 (2) days. |
+| 80-100 | Roll on the _Adventure success: Challenge 0-4_ table in [Appendix B](#p4) |
+
+##### Follower adventure: Challenge 5-10
+| d100 | Result |
+|:----:|:-------------|
+| 1-40 | Roll on the _Adventure failure: Challenge 5-10_ table in [Appendix B](#p4) |
+| 41-79 | Adventure is delayed by d8 (4) days. |
+| 80-100 | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix B](#p4) |
 
 \page
 
@@ -316,31 +385,54 @@ Each magic item, or non-magical piece of adventuring gear above 25gp in value, t
 # Appendix B: Follower adventure outcome
 
 <div class='wide'>
-##### Adventure success
+##### Adventure success: Challenge 0-4
 | d100 | Outcome |
 |:------:|:-------------|
-| 1 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 2-5 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, expect that it has an extreme aversion to the sea or any salt water. |
-| 6-59 | 2d10gp obtained. |
+| 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 6-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, expect that it has an extreme aversion to the sea or any salt water. |
+| 31-59 | 2d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
-	| 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
+| 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 | 100 | All followers gain a level. Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 </div>
 
 <div class='wide'>
-##### Adventure failure
+##### Adventure success: Challenge 5-10
 | d100 | Outcome |
 |:------:|:-------------|
-| 1 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
-| 2 - 89 | ... |
-| 90 - 94 | One randomly determined follower leaves the party out of fear. |
-| 95 - 99 | One randomly determined follower dies. |
+| 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, expect that it has an extreme aversion to the sea or any salt water. |
+| 31-59 | 8d10gp obtained. |
+| 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
+| 80-99 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
+| 100 | All followers gain a level. Roll once on [Magic Item Table C](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableC) of the DMG to determine an obtained magic item. |
+</div>
+
+<div class='wide'>
+##### Adventure failure: Challenge 0-4
+| d100 | Outcome |
+|:------:|:-------------|
+| 1-10 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
+| 11-89 | ... |
+| 90-94 | One randomly determined follower leaves the party out of fear. |
+| 95-99 | One randomly determined follower dies. |
 | 100 | Total party kill of followers. |
 </div>
 
-<img
-  src='https://www.dndbeyond.com/attachments/0/870/c7c-01.png'
-  style='position:absolute; opacity:50%; bottom:50px; width: 88%' />
+<div class='wide'>
+##### Adventure failure: Challenge 5-10
+| d100 | Outcome |
+|:------:|:-------------|
+| 1-5 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
+| 6-89 | ... |
+| 90-94 | One randomly determined follower leaves the party out of fear. |
+| 95-99 | One randomly determined follower dies. |
+| 100 | Total party kill of followers. |
+</div>
+
+<!-- <img
+  src='https://www.dndbeyond.com/attachments/0/906/c9-03.png'
+  style='position:absolute; opacity:50%; bottom:50px; width: 88%' /> -->
 
 \page
 
