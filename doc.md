@@ -270,31 +270,42 @@ A _follower item_ is a magic item, or non-magical piece of adventuring gear abov
 
 <div class='pageNumber auto'></div>
 
-### Difficulty
+## Adventure difficulty
 
 Followers might be pitted against challenges that are comparitively easy or difficult than what would be deemed a suitable challenge for them.
 
 <div class='descriptive'>
 To calculate a party of follower's level, take the average level of the group, rounded down, with a minimum of 1.
+
+**Tip**: when the party's level matches the Adventure challenge rating, the difficult modifier is 0.
 </div>
 
 ##### Adventure difficulty
 | Party level | Adventure roll modifier |
 |:----:|:-------------|
 | 1  | 10 x (1 - _Adventure challenge rating_) |
-| 2  | Chocolate Chip |
-| 3 | 2 or lower |
-| 4 | 3 or lower |
-| 6 | 4 or lower |
-| 7 | 4 or lower |
-| 8 | 4 or lower |
-| 9 | 4 or lower |
-| 10 | 4 or lower |
+| 2  | 10 x (2 - _Adventure challenge rating_) |
+| 3 | 10 x (3 - _Adventure challenge rating_) |
+| 4 | 10 x (4 - _Adventure challenge rating_) |
+| 5 | 10 x (5 - _Adventure challenge rating_) |
+| 6 | 10 x (6 - _Adventure challenge rating_) |
+| 7 | 10 x (7 - _Adventure challenge rating_) |
+| 8 | 10 x (8 - _Adventure challenge rating_) |
+| 9 | 10 x (9 - _Adventure challenge rating_) |
+| 10 | 10 x (10 - _Adventure challenge rating_) |
 
 > ##### Amafey's first adventure
 > Amafey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
 >
 > The party have been tasked with locating a shrine known to be hidden in a nearby, relatively safe, forest. The challenge rating of this exploration adventure is 2.
+>
+> Party level 1 and Adventure challenge rating 2 results in:
+>
+> 10 x (1 - 2) = -10
+>
+> The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
+>
+> **Tip**: This negative modifier can be offset by _player investment_ and _provided equipment_.
 
 \page
 
@@ -312,7 +323,8 @@ _Prerequisite: at least one recruited follower_
 Just as followers of yours are about to set out on an adventure, you are struck with an ingenious idea.
 
 You can use _Flash of Genius_ to direct followers to take an otherwise unthought of strategy.
-When you do so the followers have a chance of completing their adventure in less time,
+
+When you do so your follower, or followers, have a chance of completing their adventure in less time,
 without affecting their chance of success.
 
 ## Barbarian
@@ -328,7 +340,13 @@ The next time the follower is involved in an adventure that results in rolling o
 
 ## Bard
 
-### ?
+### Influential network
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+Much like the Rogue one, I was thinking a Bard could have a network of spies that could be used either to gather information or spread the notoriety of certain individuals, whether misinformation to spook a villain out of hiding, or incite them into a miscalculated move that might reveal their resources, or to improve the reputation of individuals and NPCs that might be running for an election, or increase the chances of a group obtaining a prized-mission when there are multiple parties interested in receiving the exclusive contract?
+
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
@@ -342,9 +360,11 @@ _Prerequisite: at least one recruited follower_
 
 You can use your Channel Divinity to reassert the benefits of devotion to your diety.
 
-As an action, you present your holy symbol, and your followers that can see or hear you within 30 feet
-are bolstered within a divine confidence. With this your followers will not leave their party out of fear,
-a possible result when rolling on an _Adventure failure_ table in [Appendix A](#p4), during their next adventure.
+As an action, you present your holy symbol and followers that can see or hear you within 30 feet
+are bolstered with a divine confidence.
+
+With this your followers will not leave their party out of fear,
+possiblly as a result when rolling on an _Adventure failure_ table in [Appendix A](#p4), during their next adventure.
 
 ## Druid
 
@@ -357,7 +377,7 @@ a possible result when rolling on an _Adventure failure_ table in [Appendix A](#
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-You can expend a use of your Wild Shape feature to guide any followers within 50 miles of you on their travels.
+You can expend a use of your Wild Shape feature to guide followers within 50 miles of you on their travels.
 For the next 8 hours they can travel twice as far across any natural ground and ignore difficult terrain.
 
 Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths of a forest,
@@ -375,7 +395,7 @@ A Warrior follower of yours has received further training alongside their martia
 Under your guidance they are an ideal candidate as leader of their party.
 
 With leadership, the party tends to be more organised, and successful.
-When rolling on an _Adventure success_ table in [Appendix A](#p4), during their next adventure,
+When rolling on an _Adventure success_ table in [Appendix A](#p4) during their next adventure,
 you may roll twice, keeping both rewards.
 
 ## Monk
@@ -550,16 +570,16 @@ ___
 > ## Amafey
 >*Medium humanoid, neutral good*
 > ___
-> - **Armor Class** 15
-> - **Hit Points** 7(1d4 + 5)
+> - **Armor Class** 13 (Hide armour)
+> - **Hit Points** 10 (2d8 )
 > - **Speed** 30ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|5 (-2)|3 (-3)|12 (+1)|17 (+4)|14 (+2)|1 (-4)|
+>|9 (-1)|13 (+1)|9 (-1)|18 (+4)|9 (-1)|9 (-1)|
 >___
-> - **Senses** passive Perception 13
-> - **Languages** None
+> - **Senses** passive Perception 9
+> - **Languages** Common
 > - **Challenge** 1/2
 > ___
 > ***Spellcasting.*** Amafey is a 2nd-level spellcaster.
@@ -567,7 +587,7 @@ ___
 >
 >Cantrips (at will):
 > ### Actions
-> ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2)
+> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 4 (1d6 + 1)
 
 <img
   src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
