@@ -92,6 +92,10 @@ You can spend a point of rage to... inspire... one of your followers to succeed 
 
 The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix B](#p4), you can reroll; you must keep the new role.
 
+## Bard
+
+### ?
+
 ## Cleric
 
 ### Channel Divinity: Unbreakable devotion
@@ -104,6 +108,10 @@ You can use your Channel Divinity to reassert the benefits of devotion to your d
 As an action, you present your holy symbol, and your followers that can see or hear you within 30 feet
 are bolstered within a divine confidence. With this your followers will not leave their party out of fear,
 a possible result when rolling on the _Adventure failure_ table in [Appendix B](#p4), during their next adventure.
+
+\page
+
+<div class='pageNumber auto'></div>
 
 ## Druid
 
@@ -123,10 +131,6 @@ Your Wild Guide might take the form of a series of bird calls that guide your fo
 a steady, sweet smelling, breeze that blows across fields towards a hidden mountain path
 or an anmial spirit that travels with the group as long as they remain out of combat.
 
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Fighter
 
 ### Natural leader
@@ -140,6 +144,39 @@ Under your guidance they are an ideal candidate as leader of their party.
 With leadership, the party tends to be more organised, and successful.
 When rolling on the _Adventure success_ table in [Appendix B](#p4), during their next adventure,
 you may roll twice, keeping both rewards.
+
+## Monk
+
+### ?
+
+## Paladin
+
+### ?
+
+## Rogue
+
+### Unreported adventure
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+You can direct a follower of your choice to undertake a solo adventure,
+drawing from your experience to guide them to success without the reliance of others.
+
+Due to the subtle nature of this kind of mission, you can only have one unreported adventure
+in motion at any one time.
+
+An unreported adventure has the same chance of success as a if a small group of followers undertook this mission,
+unless the task would suffer significantly, such as requiring multiple events to take place at the same time
+in different locations.
+
+An unreported adventure might take the form of an undercover, intelligence gathering mission;
+an assassination or burglary, after which the follower might hide out for a period of time afterwards;
+or travel to a location that requires speed and stealth.
+
+\page
+
+<div class='pageNumber auto'></div>
 
 ## Sorceror
 
@@ -250,7 +287,6 @@ Each magic item, or non-magical piece of adventuring gear above 25gp in value, t
 | +10 | 3 |
 | +50 | 5+ |
 
-
 \page
 
 <div class='pageNumber auto'></div>
@@ -262,7 +298,8 @@ Each magic item, or non-magical piece of adventuring gear above 25gp in value, t
 | d100 | Outcome |
 |:------:|:-------------|
 | 1 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 2-59 | 2d10gp obtained. |
+| 2-5 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, expect that it has an extreme aversion to the sea or any salt water. |
+| 6-59 | 2d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 	| 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 | 100 | All followers gain a level. Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
