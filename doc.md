@@ -66,7 +66,11 @@ to increase their chance of success.
 <div class='descriptive'>
 Followers you recruit that have existing statistics detailed in a stat block can be recruited,
 but must be approved by your DM.
-	</div>
+</div>
+
+<img
+  src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
+  style='position:absolute; opacity: 60%; bottom:50px; left:550px; width:100%' />
 
 \page
 
