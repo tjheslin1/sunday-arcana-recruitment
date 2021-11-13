@@ -126,6 +126,176 @@ all armour as well as simple and martial weapons.
 >
 > Amafey chooses the Defender as her Martial Role.
 
+<div style='overflow: hidden; position: absolute; bottom:10px; right:50px; width:250px'>
+<img
+  src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-005.png'
+  style='opacity:60%; width:800px; margin-left:10px; margin-right:0px;' />
+</div>
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Follower adventures
+
+Followers might be encouraged to devote their time to trade, selling magic items aquired by the player,
+or huntting down a desired artifact; prayer at a local temple, in service to your shared diety; study,
+at an office established by the player or a university; or any other time consuming task that the player
+has convinced them is a worthy endeavour.
+
+Followers not dedicated to a task such as these, will likely spend their time
+adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
+
+Followers may adventure to:
+
+- Track down and eliminate a group of goblins that fled during their last encounter with the player.
+
+- Scout an area in search of a shrine or enemy encampment.
+
+- Delve into a dungeon discovered by the player, who is unable to devote time to exploring it
+or intentionally challenges their followers with the task.
+
+
+<div style='margin-top:0px'></div>
+
+To determine the success or failure of a follower's adventure, roll on the approprite table below.
+
+Modifiers to the roll include: player investment, provided equipment and follower challenge rating compared
+to the challenge rating of the adventure.
+
+##### Follower adventure: Challenge 0-4
+| d100 | Result |
+|:----:|:-------------|
+| 1-30 | Roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p4) |
+| 31-79 | Adventure is delayed by d4 (2) days. |
+| 80-100+ | Roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p4) |
+
+##### Follower adventure: Challenge 5-10
+| d100 | Result |
+|:----:|:-------------|
+| 1-40 | Roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p4) |
+| 41-79 | Adventure is delayed by d8 (4) days. |
+| 80-100+ | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
+
+### Preparation
+
+Preparation is often key to the success of an adventure, without which followers might meet an intimely,
+and quick, end.
+
+Like all adventures, lucky also plays an element but can be influenced in the right, or wrong,
+direction depending on how the followers take on their task.
+
+The guidance from the player and possibly a monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) , followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise.
+
+##### Player investment
+| Adventure roll modifier | Player investment |
+|:----:|:-------------|
+| -5 | None |
+| +1 | Basic advice |
+| +5 | 20gp |
+| +10 | 50gp |
+| +20 | 100gp+ |
+
+Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve.
+
+A _follower item_ is a magic item, or non-magical piece of adventuring gear above 25gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
+
+##### Provided equipment
+| Adventure roll modifier | Number of _follower items_ |
+|:----:|:-------------|
+| 0 | 0 |
+| +5 | 1 |
+| +10 | 2 |
+| +15 | 3 |
+| +20 | 4+ |
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<div class='wide'>
+
+## Adventure challenge ratings
+
+##### Social Interaction Adventure
+| Challenge rating | Cookie Type |
+|:----:|:-------------|
+| 0  | Deliver a simple message to a known creature at a known location. |
+| 1  | Deliver a persuasive message to a known creature at a known location. |
+| 2 | Deliver a threatening message to a known creature at a known location. |
+| 3 | Decieve, persuade or threaten...  |
+| 4 | .. |
+| 5 | .. |
+| 6 | .. |
+| 7 | .. |
+| 8 | .. |
+| 9 | .. |
+| 10 | .. |
+</div>
+
+<div class='wide'>
+##### Combat Adventure
+| Challenge rating | Cookie Type |
+|:----:|:-------------|
+| 0  | Clear a known, simple, dungeon with little to no traps and monsters. |
+| 1  | Clear a known, simple, dungeon with a few traps and/or a few monsters. |
+| 2 | Clear a known, expansive, dungeon with a few traps and/or a few monsters. |
+| 3 | Clear, persuade or threaten  |
+| 4 | .. |
+| 5 | .. |
+| 6 | .. |
+| 7 | .. |
+| 8 | .. |
+| 9 | .. |
+| 10 | .. |
+
+##### Exploration Adventure
+| Challenge rating | Cookie Type |
+|:----:|:-------------|
+| 0  | Clear a known, simple, dungeon with little to no traps and monsters. |
+| 1  | Clear a known, simple, dungeon with a few traps and/or a few monsters. |
+| 2 | Clear a known, expansive, dungeon with a few traps and/or a few monsters. |
+| 3 | Clear, persuade or threaten  |
+| 4 | .. |
+| 5 | .. |
+| 6 | .. |
+| 7 | .. |
+| 8 | .. |
+| 9 | .. |
+| 10 | .. |
+</div>
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+### Difficulty
+
+Followers might be pitted against challenges that are comparitively easy or difficult than what would be deemed a suitable challenge for them.
+
+<div class='descriptive'>
+To calculate a party of follower's level, take the average level of the group, rounded down, with a minimum of 1.
+</div>
+
+##### Adventure difficulty
+| Party level | Adventure roll modifier |
+|:----:|:-------------|
+| 1  | 10 x (1 - _Adventure challenge rating_) |
+| 2  | Chocolate Chip |
+| 3 | 2 or lower |
+| 4 | 3 or lower |
+| 6 | 4 or lower |
+| 7 | 4 or lower |
+| 8 | 4 or lower |
+| 9 | 4 or lower |
+| 10 | 4 or lower |
+
+> ##### Amafey's first adventure
+> Amafey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
+>
+> The party have been tasked with locating a shrine known to be hidden in a nearby, relatively safe, forest. The challenge rating of this exploration adventure is 2.
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -154,7 +324,7 @@ _Prerequisite: at least one recruited follower_
 
 You can spend a point of rage to... inspire... one of your followers to succeed in their next adventure.
 
-The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix B](#p4), you can reroll; you must keep the new role.
+The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p4), you can reroll; you must keep the new role.
 
 ## Bard
 
@@ -174,7 +344,7 @@ You can use your Channel Divinity to reassert the benefits of devotion to your d
 
 As an action, you present your holy symbol, and your followers that can see or hear you within 30 feet
 are bolstered within a divine confidence. With this your followers will not leave their party out of fear,
-a possible result when rolling on an _Adventure failure_ table in [Appendix B](#p4), during their next adventure.
+a possible result when rolling on an _Adventure failure_ table in [Appendix A](#p4), during their next adventure.
 
 ## Druid
 
@@ -205,7 +375,7 @@ A Warrior follower of yours has received further training alongside their martia
 Under your guidance they are an ideal candidate as leader of their party.
 
 With leadership, the party tends to be more organised, and successful.
-When rolling on an _Adventure success_ table in [Appendix B](#p4), during their next adventure,
+When rolling on an _Adventure success_ table in [Appendix A](#p4), during their next adventure,
 you may roll twice, keeping both rewards.
 
 ## Monk
@@ -304,7 +474,9 @@ another of your followers.
 > #### Prodigy Example: _Amafey_
 > Amafey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafey awakes to the strange sensation of an offer of a pact with Luth.
 >
-> Upon accepting she gains a level and is now a 2nd-level Prodigy sidekick. Amafey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
+> Upon accepting she gains a level and is now a 2nd-level Spellcaster (Prodigy) sidekick.
+>
+> Amafey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
 
 ## Wizard
 
@@ -317,76 +489,7 @@ _Prerequisite: at least one recruited follower_
 
 <div class='pageNumber auto'></div>
 
-# Appendix A: Follower adventures
-
-Followers might be encouraged to devote their time to trade, selling magic items aquired by the player,
-or huntting down a desired artifact; prayer at a local temple, in service to your shared diety; study,
-at an office established by the player or a university; or any other time consuming task that the player
-has convinced them is a worthy endeavour.
-
-Followers not dedicated to a task such as these, will likely spend their time
-adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
-
-Followers may adventure to:
-
-- Track down and eliminate a group of goblins that fled during their last encounter with the player.
-
-- Scout an area in search of a shrine or enemy encampment.
-
-- Delve into a dungeon discovered by the player, who is unable to devote time to exploring it
-or intentionally challenges their followers with the task.
-
-### Preparation
-
-Preparation is often key to the success of an adventure, without which followers might meet an intimely,
-and quick, end.
-
-Like all adventures, lucky also plays an element but can be influenced in the right, or wrong,
-direction depending on how the followers take on their task.
-
-The guidance from the player and possibly a monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) , followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise.
-
-##### Player investment
-| Adventure roll modifier | Player investment |
-|:----:|:-------------|
-| -5 | None |
-| +1 | Basic advice |
-| +5 | 20gp |
-| +10 | 50gp |
-| +20 | 100gp+ |
-
-Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve.
-
-Each magic item, or non-magical piece of adventuring gear above 25gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
-
-##### Follower equipment
-| Adventure roll modifier | Number of items |
-|:----:|:-------------|
-| 0 | 0 |
-| +5 | 1 |
-| +10 | 2 |
-| +15 | 3 |
-| +20 | 4+ |
-
-##### Follower adventure: Challenge 0-4
-| d100 | Result |
-|:----:|:-------------|
-| 1-30 | Roll on the _Adventure failure: Challenge 0-4_ table in [Appendix B](#p4) |
-| 31-79 | Adventure is delayed by d4 (2) days. |
-| 80-100 | Roll on the _Adventure success: Challenge 0-4_ table in [Appendix B](#p4) |
-
-##### Follower adventure: Challenge 5-10
-| d100 | Result |
-|:----:|:-------------|
-| 1-40 | Roll on the _Adventure failure: Challenge 5-10_ table in [Appendix B](#p4) |
-| 41-79 | Adventure is delayed by d8 (4) days. |
-| 80-100 | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix B](#p4) |
-
-\page
-
-<div class='pageNumber auto'></div>
-
-# Appendix B: Follower adventure outcome
+# Appendix A: Follower adventure outcome
 
 <div class='wide'>
 ##### Adventure success: Challenge 0-4
@@ -442,7 +545,7 @@ Each magic item, or non-magical piece of adventuring gear above 25gp in value, t
 
 <div class='pageNumber auto'></div>
 
-# Appendix C: Example followers
+# Appendix B: Example followers
 ___
 > ## Amafey
 >*Medium humanoid, neutral good*
