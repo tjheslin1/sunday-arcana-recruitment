@@ -68,6 +68,19 @@ Followers you recruit that have existing statistics detailed in a stat block can
 but must be approved by your DM.
 	</div>
 
+## Artificer
+
+### Ingenious scheme
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+Just as followers of yours are about to set out on an adventure, you are struck with an ingenious idea.
+
+You can use _Flash of Genius_ to direct followers to take an otherwise unthought of strategy.
+When you do so the followers have a chance of completing their adventure in less time,
+without affecting their chance of success.
+
 ## Barbarian
 
 ### Motivated by fear
