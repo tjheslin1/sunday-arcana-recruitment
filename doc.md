@@ -96,6 +96,9 @@ The next time the follower is involved in an adventure that results in rolling o
 
 ### ?
 
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
 ## Cleric
 
 ### Channel Divinity: Unbreakable devotion
@@ -149,9 +152,15 @@ you may roll twice, keeping both rewards.
 
 ### ?
 
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
 ## Paladin
 
 ### ?
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
 
 ## Rogue
 
@@ -179,6 +188,12 @@ or travel to a location that requires speed and stealth.
 <div class='pageNumber auto'></div>
 
 ## Sorceror
+
+
+### ?
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
 
 ## Warlock
 
@@ -231,6 +246,13 @@ another of your followers.
 > Amafey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafey awakes to the strange sensation of an offer of a pact with Luth.
 >
 > Upon accepting she gains a level and is now a 2nd-level Prodigy sidekick. Amafey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
+
+## Wizard
+
+### ?
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
 
 \page
 
