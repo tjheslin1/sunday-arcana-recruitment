@@ -141,22 +141,22 @@ has convinced them is a worthy endeavour.
 Followers not dedicated to a task such as these, will likely spend their time
 adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
 
+<div style='margin-top:0px'></div>
+
 Followers may adventure to:
 
 - Track down and eliminate a group of goblins that fled during their last encounter with the player.
 
 - Scout an area in search of a shrine or enemy encampment.
 
-- Delve into a dungeon discovered by the player, who is unable to devote time to exploring it
-or intentionally challenges their followers with the task.
+- Deliver a message of ill omen on behalf of the player.
 
 
 <div style='margin-top:0px'></div>
 
 To determine the success or failure of a follower's adventure, roll on the approprite table below.
 
-Modifiers to the roll include: player investment, provided equipment and follower challenge rating compared
-to the challenge rating of the adventure.
+Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p3) and [Adventure difficulty](#p5).
 
 ##### Follower adventure: Challenge 0-4
 | d100 | Result |
@@ -178,14 +178,16 @@ Preparation is often key to the success of an adventure, without which followers
 and quick, end.
 
 Luck also plays an element, but can be influenced in the right, or wrong,
-direction depending on how the followers take on their task.
+direction.
+
+<div style='margin-top:100px'></div>
+
+Beyond the [Required starting investment](#p1), any additional funding increases the likelihood
+that followers survive to achieve your goals and gain higher levels.
 
 <div style='margin-top:0px'></div>
 
-Beyond the _Required initial investment_, any additional funding increases the likelihood
-that followers survive to achieve your goals and gain higher levels.
-
-Followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
+Followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise. The more the player invests in the adventure, the more likely it will be successful.
 
 ##### Player investment
 | Adventure roll modifier | Player investment |
@@ -202,7 +204,7 @@ These could be newly provided or items that the followers are already in the pos
 ##### Provided equipment
 | Adventure roll modifier | Number of _follower items_ |
 |:----:|:-------------|
-| 0 | 0 |
+| -5 | 0 |
 | +5 | 1 |
 | +10 | 2 |
 | +15 | 3 |
@@ -304,14 +306,24 @@ To calculate a party of follower's level, take the average level of the group, r
 | 9 | 10 x (9 - _Adventure challenge rating_) |
 | 10 | 10 x (10 - _Adventure challenge rating_) |
 
+> ##### Party size?
+>
+> The exact number of followers is not factored into the _Adventure difficulty_ calculation.
+>
+> It is assumed that an appropriate number of followers approach the task.
+
+<div style='margin-top:400px'></div>
+
 > ##### Amafey's first adventure
 > Amafey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
+>
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>(2 + 1 + 1 + 1) / 4 = 1.25 = 1</div>
 >
 > The party have been tasked with locating a shrine known to be hidden in a nearby, relatively safe, forest. The challenge rating of this exploration adventure is 2.
 >
 > Party level 1 and Adventure challenge rating 2 results in:
 >
-> 10 x (1 - 2) = -10
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>10 x (1 - 2) = -10</div>
 >
 > The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
 >
