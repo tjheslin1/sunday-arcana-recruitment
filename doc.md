@@ -112,14 +112,14 @@ Choose a Martial Role: Attack or Defender.
 
 <div style='margin-top:200px'></div>
 
-> #### Warrior Example: _Amafey_
-> Amafey starts with the statistic of a Hobgoblin. Her statistics re-rolled to: 9,13,9,18,9,9.
+> #### Warrior Example: _Amafrey_
+> Amafrey starts with the statistic of a Hobgoblin. Her statistics re-rolled to: 9,13,9,18,9,9.
 > She is a Humanoid (Human), neutral good.
 >
 > She gains proficiency in Constitution saving throws, Athletics and Nature,
 all armour as well as simple and martial weapons.
 >
-> Amafey chooses the Defender as her Martial Role.
+> Amafrey chooses the Defender as her Martial Role.
 
 <div style='overflow: hidden; position: absolute; bottom:10px; right:50px; width:250px'>
 <img
@@ -314,8 +314,8 @@ To calculate a party of follower's level, take the average level of the group, r
 
 <div style='margin-top:400px'></div>
 
-> ##### Amafey's first adventure
-> Amafey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
+> ##### Amafrey's first adventure
+> Amafrey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
 >
 > <div style='margin-top:0px; margin-left:20px; font-family:consolas'>(2 + 1 + 1 + 1) / 4 = 1.25 = 1</div>
 >
@@ -413,17 +413,16 @@ or an anmial spirit that travels with the group as long as they remain out of co
 
 ## Fighter
 
-### Natural leader
+### Party strategist
 
-_Prerequisite: at least one recruited follower that is a Warrior sidekick_
+_Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-A Warrior follower of yours has received further training alongside their martial practice with you.
-Under your guidance they are an ideal candidate as leader of their party.
+A follower of yours has received martial training, including strategy.
 
-With leadership, the party tends to be more organised, and successful.
-When rolling on an _Adventure success_ table in [Appendix A](#p4) during their next adventure,
-you may roll twice, keeping both rewards.
+With this guidance they are an ideal candidate as strategist of their party,
+and as such the party tends to be more organised, and successful.
+The challenge rating of any Combat adventures this follower takes part in is decreased by 1.
 
 ## Monk
 
@@ -438,6 +437,23 @@ _Prerequisite: at least one recruited follower_
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Ranger
+
+### Natural explorer
+
+_Prerequisite: at least one recruited follower_
+<div style='margin-top:0px'></div>
+
+A follower of yours has been bestowed with a deeper appreciation of the surrounding nature.
+
+With this guidance they are an ideal candidate as navigator of their party.
+
+The challenge rating of any Exploration adventures this follower takes part in is decreased by 1.
 
 \page
 
@@ -517,12 +533,12 @@ You cannot change this eldritch invocation whilst you have a pact with a followe
 If the Profigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
 another of your followers.
 
-> #### Prodigy Example: _Amafey_
-> Amafey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafey awakes to the strange sensation of an offer of a pact with Luth.
+> #### Prodigy Example: _Amafrey_
+> Amafrey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafrey awakes to the strange sensation of an offer of a pact with Luth.
 >
 > Upon accepting she gains a level and is now a 2nd-level Spellcaster (Prodigy) sidekick.
 >
-> Amafey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). Amafey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
+> Amafrey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). _Amafrey_ey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
 
 ## Wizard
 
@@ -593,7 +609,7 @@ _Prerequisite: at least one recruited follower_
 
 # Appendix B: Example followers
 ___
-> ## Amafey
+> ## Amafrey
 >*Medium humanoid, neutral good*
 > ___
 > - **Armor Class** 13 (Hide armour)
@@ -608,8 +624,8 @@ ___
 > - **Languages** Common
 > - **Challenge** 1/2
 > ___
-> ***Spellcasting.*** Amafey is a 2nd-level spellcaster.
-> Her spellcasting ability modifier is Charisma (spell save DC XX, +Y to hit with spell attacks). Amafey has the following spells prepared:
+> ***Spellcasting.*** Amafrey is a 2nd-level spellcaster.
+> Her spellcasting ability modifier is Charisma (spell save DC XX, +Y to hit with spell attacks). Amafrey has the following spells prepared:
 >
 >Cantrips (at will):
 > ### Actions
