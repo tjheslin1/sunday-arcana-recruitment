@@ -393,11 +393,11 @@ are bolstered with a divine confidence.
 With this your followers will not leave their party out of fear,
 possiblly as a result when rolling on an _Adventure failure_ table in [Appendix A](#p4), during their next adventure.
 
-## Druid
-
 <img
   src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/01-026.png'
   style='position:absolute; opacity: 20%; bottom:50px; right:30px; width:280px' />
+
+## Druid
 
 ### Wild Guide
 
