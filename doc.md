@@ -542,7 +542,7 @@ _Prerequisite: at least one recruited follower_
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 6-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, expect that it has an extreme aversion to the sea or any salt water. |
+| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, except that it has an extreme aversion to the sea and any other source of salt water. |
 | 31-59 | 2d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 | 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
@@ -554,7 +554,7 @@ _Prerequisite: at least one recruited follower_
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, expect that it has an extreme aversion to the sea or any salt water. |
+| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, except that it has an extreme aversion to the sea and any other source of salt water. |
 | 31-59 | 8d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 | 80-99 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
