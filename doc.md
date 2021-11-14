@@ -265,7 +265,6 @@ A _follower item_ is a magic item, or non-magical piece of adventuring gear abov
 | 10 | .. |
 </div>
 
-
 \page
 
 <div class='pageNumber auto'></div>
@@ -345,8 +344,13 @@ The next time the follower is involved in an adventure that results in rolling o
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-Much like the Rogue one, I was thinking a Bard could have a network of spies that could be used either to gather information or spread the notoriety of certain individuals, whether misinformation to spook a villain out of hiding, or incite them into a miscalculated move that might reveal their resources, or to improve the reputation of individuals and NPCs that might be running for an election, or increase the chances of a group obtaining a prized-mission when there are multiple parties interested in receiving the exclusive contract?
+You have vouched for a follower of your choice to join a network of bards that can be used to gather,
+or propagate, information.
 
+Through this network you might spread misinformation to spook a villain out of hiding;
+improve the reputation of individuals that might be running for an election;
+or increase the chances of a group obtaining a prized mission when there are multiple
+parties interested in receiving the exclusive contract.
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
