@@ -422,6 +422,7 @@ A follower of yours has received martial training, including strategy.
 
 With this guidance they are an ideal candidate as strategist of their party,
 and as such the party tends to be more organised, and successful.
+
 The challenge rating of any Combat adventures this follower takes part in is decreased by 1.
 
 ## Monk
@@ -449,15 +450,11 @@ _Prerequisite: at least one recruited follower_
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-A follower of yours has been bestowed with a deeper appreciation of the surrounding nature.
+A follower of yours has been taught a deeper appreciation of the surrounding natural environment.
 
 With this guidance they are an ideal candidate as navigator of their party.
 
 The challenge rating of any Exploration adventures this follower takes part in is decreased by 1.
-
-\page
-
-<div class='pageNumber auto'></div>
 
 ## Rogue
 
