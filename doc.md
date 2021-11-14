@@ -33,6 +33,10 @@ When you reach this level, regardless of your, class or classes, you can start t
 Followers start at 1st-level and have the statistics of a Sidekick,
 detailed in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
+<div class='descriptive'>
+With approval of your DM, followers you recruit can start beyond 1st-level and/or have existing statistics detailed in a stat block.
+</div>
+
 <div style='margin-top:0px'></div>
 
 Some example followers are:
@@ -46,7 +50,7 @@ necessary for your adventures.
 - A Spellcasting sidekick with the _Role_ of Mage who has studied a school of magic under your guidance
 and is now capable of their own research as well as undertaking adenturing tasks you have assigned them.
 
-<div style='margin-top:0px'></div>
+<div style='margin-top:200px'></div>
 
 Before a follower can set out on their first task, they will require an investment to cover the cost
 daily expensive such as food and lodging, travel, adventuring gear, etc.
@@ -56,12 +60,6 @@ daily expensive such as food and lodging, travel, adventuring gear, etc.
 |:----:|:-------------|
 | 1st  | 50gp |
 | Each level beyond 1st | additional 50gp |
-
-
-<div class='descriptive'>
-Followers you recruit that have existing statistics detailed in a stat block can be recruited,
-but must be approved by your DM.
-</div>
 
 <img
   src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
@@ -111,6 +109,8 @@ As a 1st-level Warrior, gain saving throw, skill, weapon and armour proficiencie
 [Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies2).
 
 Choose a Martial Role: Attack or Defender.
+
+<div style='margin-top:200px'></div>
 
 > #### Warrior Example: _Amafey_
 > Amafey starts with the statistic of a Hobgoblin. Her statistics re-rolled to: 9,13,9,18,9,9.
