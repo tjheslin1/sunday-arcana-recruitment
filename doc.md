@@ -8,15 +8,15 @@ table th:first-of-type {
 
 # Recruitment
 
-As an adventurer becomes more established in their world it is only inevitable that they
-come across followers who wish to join them and emulate their successes.
+As an adventurer becomes more established in their world, it is inevitable that they
+come across followers who wish to join them and follow in their success.
 
 Followers might be bards who tell the stories of the character's conquests, warriors who fight for the same cause
 or priests who have come to join them in their worship.
 
 <div class='descriptive'>
-Followers are not intended to directly join the party but instead be working towards their own goals,
-possibly their own adventures, which align with the desires of the player.
+Followers are not intended to directly join the party but instead be working towards their own goals -
+possibly their own adventures - which align with the desires of the player.
 </div>
 
 ## Optional Class Features
@@ -26,12 +26,16 @@ possibly their own adventures, which align with the desires of the player.
 _10th-level feature_
 <div style='margin-top:0px'></div>
 
-When you reach this level, regardless of your class or classes, you can start to recruit followers.
+When you reach this level, regardless of your, class or classes, you can start to recruit followers.
+
+<div style='margin-top:0px'></div>
 
 Followers start at 1st-level and have the statistics of a Sidekick,
 detailed in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
-Some examples of a Sidekicks are:
+<div style='margin-top:0px'></div>
+
+Some example followers are:
 
 - A Spellcasting sidekick with the _Role_ of Healer who worships the same diety as you;
 devoting their time to prayer and the upkeep of your diety's local Temple.
@@ -42,26 +46,17 @@ necessary for your adventures.
 - A Spellcasting sidekick with the _Role_ of Mage who has studied a school of magic under your guidance
 and is now capable of their own research as well as undertaking adenturing tasks you have assigned them.
 
+<div style='margin-top:0px'></div>
+
+Before a follower can set out on their first task, they will require an investment to cover the cost
+daily expensive such as food and lodging, travel, adventuring gear, etc.
+
 ##### Required starting investment
 | Follower level | Funding |
 |:----:|:-------------|
 | 1st  | 50gp |
 | Each level beyond 1st | additional 50gp |
 
-
-Beyond what is required as a minimum, any additional investment increases the likelihood
-that followers survive to gain higher levels and achieve your goals.
-
-- A Warrior sidekick leading a group of followers into a dungeion may be provided with
-a [_**weapon of warning**_](https://www.dndbeyond.com/magic-items/weapon-of-warning),
-or similar magic item, to increase their survivability.
-- A Spellcaster sidekick with the Mage _Role_ can be supplied with the materials
-necessary to copy new spells into their spellbook.
-- An Expert sidekick performing an act of burglary on your behalf could be
-given a [_**potion of invisibility**_](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
-to increase their chance of success.
-
-<div style='margin-top:140px'></div>
 
 <div class='descriptive'>
 Followers you recruit that have existing statistics detailed in a stat block can be recruited,
@@ -179,26 +174,30 @@ to the challenge rating of the adventure.
 
 ### Preparation
 
-Preparation is often key to the success of an adventure, without which followers might meet an intimely,
+Preparation is often key to the success of an adventure, without which followers might meet an untimely,
 and quick, end.
 
-Like all adventures, lucky also plays an element but can be influenced in the right, or wrong,
+Luck also plays an element, but can be influenced in the right, or wrong,
 direction depending on how the followers take on their task.
 
-The guidance from the player and possibly a monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) , followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise.
+<div style='margin-top:0px'></div>
+
+Beyond the _Required initial investment_, any additional funding increases the likelihood
+that followers survive to achieve your goals and gain higher levels.
+
+Followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
 
 ##### Player investment
 | Adventure roll modifier | Player investment |
 |:----:|:-------------|
 | -5 | None |
-| +1 | Basic advice |
 | +5 | 20gp |
 | +10 | 50gp |
 | +20 | 100gp+ |
 
-Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve.
-
 A _follower item_ is a magic item, or non-magical piece of adventuring gear above 25gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
+
+These could be newly provided or items that the followers are already in the possession of.
 
 ##### Provided equipment
 | Adventure roll modifier | Number of _follower items_ |
@@ -208,6 +207,18 @@ A _follower item_ is a magic item, or non-magical piece of adventuring gear abov
 | +10 | 2 |
 | +15 | 3 |
 | +20 | 4+ |
+
+- A Warrior sidekick leading a group of followers into a dungeon could be provided with
+a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) and [_**weapon of warning**_](https://www.dndbeyond.com/magic-items/weapon-of-warning), to increase their survivability.
+- A Spellcaster sidekick with the Mage _Role_ can be supplied with the materials
+necessary to copy new spells into their spellbook.
+- An Expert sidekick performing an act of burglary on your behalf could be
+given a [_**potion of invisibility**_](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
+to increase their chance of success.
+
+<!-- With guidance from the player and a possible monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing), followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise. -->
+
+<!-- Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve. -->
 
 \page
 
@@ -347,13 +358,13 @@ _Prerequisite: at least one recruited follower_
 You have vouched for a follower of your choice to join a network of bards that can be used to gather,
 or propagate, information.
 
-Through this network you might spread misinformation to spook a villain out of hiding;
+The challenge rating of any Social adventures this follower takes part in,
+whilst a member of this network, is decreased by 1.
+
+The influential network might spread misinformation to spook a villain out of hiding;
 improve the reputation of individuals that might be running for an election;
 or increase the chances of a group obtaining a prized mission when there are multiple
 parties interested in receiving the exclusive contract.
-
-_Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 ## Cleric
 
@@ -437,9 +448,8 @@ An unreported adventure has the same chance of success as a if a small group of 
 unless the task would suffer significantly, such as requiring multiple events to take place at the same time
 in different locations.
 
-An unreported adventure might take the form of an undercover, intelligence gathering mission;
-an assassination or burglary, after which the follower might hide out for a period of time afterwards;
-or travel to a location that requires speed and stealth.
+An unreported adventure might take the form of an undercover, intelligence gathering mission,
+an assassination or burglary, or travel to a location that requires speed and stealth.
 
 ## Sorceror
 
