@@ -30,7 +30,7 @@ When you reach this level, regardless of your, class or classes, you can start t
 
 <div style='margin-top:0px'></div>
 
-Followers start at 1st-level and have the statistics of a Sidekick,
+Followers start at 1st-level and have the statistics of a sidekick,
 detailed in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
 <div class='descriptive'>
@@ -535,6 +535,8 @@ another of your followers.
 >
 > Upon accepting she gains a level and is now a 2nd-level Spellcaster (Prodigy) sidekick.
 >
+> Amafrey's saving throw proficiency changes from Constitution to Charisma and her skill proficiencies are now: History and Investigation.
+>
 > Amafrey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). _Amafrey_ey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
 
 ## Wizard
@@ -607,26 +609,29 @@ _Prerequisite: at least one recruited follower_
 # Appendix B: Example followers
 ___
 > ## Amafrey
->*Medium humanoid, neutral good*
+>*2nd-level Medium humanoid, neutral good*
 > ___
 > - **Armor Class** 13 (Hide armour)
-> - **Hit Points** 10 (2d8 )
+> - **Hit Points** 9 (2d8 )
 > - **Speed** 30ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|9 (-1)|18 (+4)|9 (-1)|9 (-1)|
 >___
+> - **Saving Throws** CHA +1
+> - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
 > - **Senses** passive Perception 9
 > - **Languages** Common
-> - **Challenge** 1/2
 > ___
-> ***Spellcasting.*** Amafrey is a 2nd-level spellcaster.
-> Her spellcasting ability modifier is Charisma (spell save DC XX, +Y to hit with spell attacks). Amafrey has the following spells prepared:
+> ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
+> Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following spells prepared:
 >
->Cantrips (at will):
+>Cantrips (at will): [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade), [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast)
+>
+>1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
 > ### Actions
-> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 4 (1d6 + 1)
+> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 <img
   src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
