@@ -632,11 +632,9 @@ ___
 >1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
-
-
 ___
-> ## Leshanna Galanodel
->*1st-level Medium humanoid (elf), chaotic good*
+> ## Marcon Astorio
+>*1st-level Medium humanoid (Aasimar), lawful good*
 > ___
 > - **Armor Class** 13 (Hide armour)
 > - **Hit Points** 9 (2d8 )
@@ -698,6 +696,31 @@ ___
 > ***Naturally Stealthy.*** They can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 > ### Actions
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5ft. or range 20/60 ft.,  one target. *Hit* 3 (1d4 + 1) piercing damage.
+___
+> ## Wug the bully
+>*2nd-level Medium humanoid (bullywug), neutral evil*
+> ___
+> - **Armor Class** 13 (Hide armour)
+> - **Hit Points** 9 (2d8 )
+> - **Speed** 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|9 (-1)|13 (+1)|9 (-1)|18 (+4)|9 (-1)|9 (-1)|
+>___
+> - **Saving Throws** CHA +1
+> - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
+> - **Senses** passive Perception 9
+> - **Languages** Common
+> ___
+> ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
+> Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following warlock spells prepared:
+>
+>Cantrips (at will): [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade), [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast)
+>
+>1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
 <img
   src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
