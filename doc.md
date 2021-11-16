@@ -635,8 +635,8 @@ ___
 
 
 ___
-> ## Warrior
->*1st-level Medium humanoid, neutral good*
+> ## Leshanna Galanodel
+>*1st-level Medium humanoid (elf), chaotic good*
 > ___
 > - **Armor Class** 13 (Hide armour)
 > - **Hit Points** 9 (2d8 )
@@ -662,6 +662,13 @@ ___
 
 \page
 
+<!-- [The HitPoints section of chapter 1 of the MM (https://www.dndbeyond.com/sources/mm/introduction#HitPoints)].
+suggest that a Small creature should have a hit die of d6. Looking at a halfling stat block such as https://www.dndbeyond.com/monsters/manafret-cherryport confirms this.
+
+Whilst the Expert stat block (https://www.dndbeyond.com/monsters/expert) states a d8 it also states a Medium humanoid.
+
+Going by the idea of reworking an existing stat block into a sidekick I think it's safe to assume this has been done for Cade, the Halfling.
+ -->
 <div class='pageNumber auto'></div>
 ___
 > ## Cade Brushgather
@@ -676,7 +683,7 @@ ___
 >|5 (-3)|12 (+1)|10 (0)|14 (+2)|17 (+3)|17 (+3)|
 >___
 > - **Saving Throws** DEX +3
-> - **Skills** [](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#) +5, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
+> - **Skills** [Insight](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Insight) +5, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +4, [Perception](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Perception) +5, [Persuasion](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Persuasion) +5, [Stealth](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Stealth) +3
 > - **Senses** passive Perception 15
 > - **Languages** Common, Halfling
 > ___
