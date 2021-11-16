@@ -609,7 +609,7 @@ _Prerequisite: at least one recruited follower_
 # Appendix B: Example followers
 ___
 > ## Amafrey
->*2nd-level Medium humanoid, neutral good*
+>*2nd-level Medium humanoid (Human), neutral good*
 > ___
 > - **Armor Class** 13 (Hide armour)
 > - **Hit Points** 9 (2d8 )
@@ -625,6 +625,33 @@ ___
 > - **Languages** Common
 > ___
 > ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
+> Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following warlock spells prepared:
+>
+>Cantrips (at will): [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade), [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast)
+>
+>1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+
+
+___
+> ## Warrior
+>*1st-level Medium humanoid, neutral good*
+> ___
+> - **Armor Class** 13 (Hide armour)
+> - **Hit Points** 9 (2d8 )
+> - **Speed** 30ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (0)|11 (0)|10 (0)|12 (+1)|12 (+1)|8 (-1)|
+>___
+> - **Saving Throws** CHA +1
+> - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
+> - **Senses** passive Perception 9
+> - **Languages** Common
+> ___
+> ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
 > Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following spells prepared:
 >
 >Cantrips (at will): [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade), [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast)
@@ -632,6 +659,38 @@ ___
 >1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+
+\page
+
+<div class='pageNumber auto'></div>
+___
+> ## Cade Brushgather
+>*1st-level Small humanoid (lightfoot halfling), lawful neutral*
+> ___
+> - **Armor Class** 12 (Leather armour)
+> - **Hit Points** 4 (1d8 )
+> - **Speed** 25ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|5 (-3)|12 (+1)|10 (0)|14 (+2)|17 (+3)|17 (+3)|
+>___
+> - **Saving Throws** DEX +3
+> - **Skills** [](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#) +5, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
+> - **Senses** passive Perception 15
+> - **Languages** Common, Halfling
+> ___
+> ***Helpful.*** They are adept at giving well-timed assistance and can take the [Help](https://www.dndbeyond.com/sources/basic-rules/combat#Help) action as a bonus action.
+>
+> ***Lucky.*** When they roll a 1 on the d20 for an attack roll, ability check, or saving throw, they can reroll the die and must use the new roll.
+>
+> ***Brave.*** They have advantage on saving throws against being [frightened](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Frightened).
+>
+> ***Halfling Nimbleness.*** They can move through the space of any creature that is of a size larger than yours.
+>
+> ***Naturally Stealthy.*** They can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+> ### Actions
+> ***Dagger.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5ft. or range 20/60 ft.,  one target. *Hit* 3 (1d4 + 1) piercing damage.
 
 <img
   src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
