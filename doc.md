@@ -607,8 +607,10 @@ _Prerequisite: at least one recruited follower_
 <div class='pageNumber auto'></div>
 
 # Appendix B: Example followers
+
+## Spellcaster
 ___
-> ## Amafrey
+> ## Amafrey Westra
 >*2nd-level Medium humanoid (Human), neutral good*
 > ___
 > - **Armor Class** 13 (Hide armour)
@@ -621,7 +623,7 @@ ___
 >___
 > - **Saving Throws** CHA +1
 > - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
-> - **Senses** passive Perception 9
+> - **Senses** Passive Perception 9
 > - **Languages** Common
 > ___
 > ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
@@ -632,31 +634,36 @@ ___
 >1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+
+<div style='margin-top:400px'></div>
+
+## Warrior
 ___
 > ## Marcon Astorio
 >*1st-level Medium humanoid (Aasimar), lawful good*
 > ___
-> - **Armor Class** 13 (Hide armour)
+> - **Armor Class** 15 (Hide armour, Shield)
 > - **Hit Points** 9 (2d8 )
 > - **Speed** 30ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|10 (0)|11 (0)|10 (0)|12 (+1)|12 (+1)|8 (-1)|
+>|10 (0)|11 (0)|10 (0)|13 (+2)|12 (+1)|10 (0)|
 >___
 > - **Saving Throws** CHA +1
-> - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
-> - **Senses** passive Perception 9
-> - **Languages** Common
+> - **Skills** [Nature](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Nature) +4, [Survival](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Survival) +3
+> - **Damage Resistances** Necrotic, Radiant
+> - **Senses** [Darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60ft., Passive Perception 13
+> - **Languages** Celestial, Common
 > ___
-> ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
-> Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following spells prepared:
+> ***Innate Spellcasting.*** The aasimar's innate spellcasting ability is Charisma (spell save DC 12).
+> They can innately cast the following spells, requiring no material components:
 >
->Cantrips (at will): [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade), [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast)
+> At will: [_**light**_](https://www.dndbeyond.com/spells/light)
 >
->1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
+> **Healing Hands (1/Day).** The assimar can touch a creature and cause it to regain a number of hit points equal to its level.
 > ### Actions
-> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+> ***Shortsword.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 3 (1d6) piercing damage.
 
 \page
 
@@ -668,6 +675,8 @@ Whilst the Expert stat block (https://www.dndbeyond.com/monsters/expert) states 
 Going by the idea of reworking an existing stat block into a sidekick I think it's safe to assume this has been done for Cade, the Halfling.
  -->
 <div class='pageNumber auto'></div>
+
+## Expert
 ___
 > ## Cade Brushgather
 >*1st-level Small humanoid (lightfoot halfling), lawful neutral*
@@ -682,7 +691,7 @@ ___
 >___
 > - **Saving Throws** DEX +3
 > - **Skills** [Insight](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Insight) +5, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +4, [Perception](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Perception) +5, [Persuasion](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Persuasion) +5, [Stealth](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Stealth) +3
-> - **Senses** passive Perception 15
+> - **Senses** Passive Perception 15
 > - **Languages** Common, Halfling
 > ___
 > ***Helpful.*** They are adept at giving well-timed assistance and can take the [Help](https://www.dndbeyond.com/sources/basic-rules/combat#Help) action as a bonus action.
@@ -696,8 +705,12 @@ ___
 > ***Naturally Stealthy.*** They can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 > ### Actions
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5ft. or range 20/60 ft.,  one target. *Hit* 3 (1d4 + 1) piercing damage.
+
+<div style='margin-top:400px'></div>
+
+## Spellcaster
 ___
-> ## Wug the bully
+> ## Wug the Bully
 >*2nd-level Medium humanoid (bullywug), neutral evil*
 > ___
 > - **Armor Class** 13 (Hide armour)
@@ -710,15 +723,15 @@ ___
 >___
 > - **Saving Throws** CHA +1
 > - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
-> - **Senses** passive Perception 9
+> - **Senses** Passive Perception 9
 > - **Languages** Common
 > ___
 > ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
 > Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following warlock spells prepared:
 >
->Cantrips (at will): [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade), [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast)
+>Cantrips (at will): [_**fire bolt**_](https://www.dndbeyond.com/spells/fire-bolt), [_**mage hand**_](https://www.dndbeyond.com/spells/mage-hand)
 >
->1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
+>1st level (2 slots): [_**burning hands**_](https://www.dndbeyond.com/spells/burning-hands), [_**tashas hideous laughter**_](https://www.dndbeyond.com/spells/tashas-hideous-laughter)
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
