@@ -754,4 +754,4 @@ ___
 
 <img
   src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
-  style='position:absolute; opacity: 40%; bottom:50px; right:30px; width:280px' />
+  style='position:absolute; opacity: 40%; bottom:50px; right:30px; width:140px' />
