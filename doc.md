@@ -691,7 +691,7 @@ ___
 >*1st-level Small humanoid (lightfoot halfling), lawful neutral*
 > ___
 > - **Armor Class** 12 (Leather armour)
-> - **Hit Points** 5 (1d8)
+> - **Hit Points** 4 (1d6)
 > - **Speed** 25ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
