@@ -717,7 +717,7 @@ ___
 
 <div style='margin-top:400px'></div>
 
-## Spellcaster (mage)
+## Spellcaster (Mage)
 ___
 > ## Wug, the Bully
 >*1st-level Medium humanoid (bullywug), neutral evil*
