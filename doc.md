@@ -61,9 +61,13 @@ daily expensive such as food and lodging, travel, adventuring gear, etc.
 | 1st  | 50gp |
 | Each level beyond 1st | additional 50gp |
 
-<img
-  src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
-  style='position:absolute; opacity: 60%; bottom:50px; left:550px; width:100%' />
+<div style='position:absolute; opacity: 60%; bottom:50px; left:450px; width:100%'>
+  <img
+    src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
+    style='opacity: 60%; width: 1000px' />
+
+  <figcaption style='margin-left:200px'>Wug, the Bully</figcaption>
+</div>
 
 \page
 
@@ -124,7 +128,9 @@ all armour as well as simple and martial weapons.
 <div style='overflow: hidden; position: absolute; bottom:10px; right:50px; width:250px'>
 <img
   src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-005.png'
-  style='opacity:60%; width:800px; margin-left:10px; margin-right:0px;' />
+  style='opacity:45%; width:800px; margin-left:10px; margin-right:0px;' />
+
+<!-- <figcaption style='margin-bottom:0px'>Marco Asotorio</figcaption> -->
 </div>
 
 \page
@@ -476,7 +482,7 @@ in different locations.
 An unreported adventure might take the form of an undercover, intelligence gathering mission,
 an assassination or burglary, or travel to a location that requires speed and stealth.
 
-## Sorceror
+## Sorcerer
 
 ### ?
 
@@ -710,7 +716,7 @@ ___
 
 ## Spellcaster
 ___
-> ## Wug the Bully
+> ## Wug, the Bully
 >*2nd-level Medium humanoid (bullywug), neutral evil*
 > ___
 > - **Armor Class** 13 (Hide armour)
