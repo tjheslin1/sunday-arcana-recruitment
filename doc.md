@@ -614,13 +614,13 @@ _Prerequisite: at least one recruited follower_
 
 # Appendix B: Example followers
 
-## Spellcaster
+## Spellcaster (Prodigy)
 ___
 > ## Amafrey Westra
 >*2nd-level Medium humanoid (Human), neutral good*
 > ___
 > - **Armor Class** 13 (Hide armour)
-> - **Hit Points** 9 (2d8 )
+> - **Hit Points** 8 (2d8)
 > - **Speed** 30ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -646,10 +646,10 @@ ___
 ## Warrior
 ___
 > ## Marcon Astorio
->*1st-level Medium humanoid (Aasimar), lawful good*
+>*1st-level Medium humanoid (Aasimar, Protector), lawful good*
 > ___
-> - **Armor Class** 15 (Hide armour, Shield)
-> - **Hit Points** 9 (2d8 )
+> - **Armor Class** 14 (Hide armour, Shield)
+> - **Hit Points** 5 (1d8)
 > - **Speed** 30ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -662,14 +662,17 @@ ___
 > - **Senses** [Darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60ft., Passive Perception 13
 > - **Languages** Celestial, Common
 > ___
-> ***Innate Spellcasting.*** The aasimar's innate spellcasting ability is Charisma (spell save DC 12).
+> ***Innate Spellcasting.*** The sidekick's innate spellcasting ability is Charisma (spell save DC 12).
 > They can innately cast the following spells, requiring no material components:
 >
 > At will: [_**light**_](https://www.dndbeyond.com/spells/light)
 >
-> **Healing Hands (1/Day).** The assimar can touch a creature and cause it to regain a number of hit points equal to its level.
+> **Healing Hands (1/Day).** They can touch a creature and cause it to regain a number of hit points equal to its level.
 > ### Actions
 > ***Shortsword.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 3 (1d6) piercing damage.
+>
+> ### Reactions
+> **Defender.** The sidekick can use their reaction to impose disadvantage on the attack roll of a creature within 5 feet of them whose target isn’t the sidekick, provided the sidekick can see the attacker.
 
 \page
 
@@ -688,7 +691,7 @@ ___
 >*1st-level Small humanoid (lightfoot halfling), lawful neutral*
 > ___
 > - **Armor Class** 12 (Leather armour)
-> - **Hit Points** 4 (1d8 )
+> - **Hit Points** 5 (1d8)
 > - **Speed** 25ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -710,36 +713,44 @@ ___
 >
 > ***Naturally Stealthy.*** They can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 > ### Actions
-> ***Dagger.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5ft. or range 20/60 ft.,  one target. *Hit* 3 (1d4 + 1) piercing damage.
+> ***Dagger.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5ft. or range 20/60 ft., one target. *Hit* 3 (1d4 + 1) piercing damage.
 
 <div style='margin-top:400px'></div>
 
-## Spellcaster
+## Spellcaster (mage)
 ___
 > ## Wug, the Bully
->*2nd-level Medium humanoid (bullywug), neutral evil*
+>*1st-level Medium humanoid (bullywug), neutral evil*
 > ___
-> - **Armor Class** 13 (Hide armour)
-> - **Hit Points** 9 (2d8 )
+> - **Armor Class** 11
+> - **Hit Points** 6 (1d8)
 > - **Speed** 30ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|9 (-1)|13 (+1)|9 (-1)|18 (+4)|9 (-1)|9 (-1)|
+>|15 (+2)|12 (+1)|12 (+1)|11 (0)|5 (-3)|12 (+1)|
 >___
-> - **Saving Throws** CHA +1
-> - **Skills** [History](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#History) +6, [Investigation](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Investigation) +6
-> - **Senses** Passive Perception 9
-> - **Languages** Common
+> - **Saving Throws** CHA +3
+> - **Skills** [Performance](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Performance) +3, [Persuasion](https://www.dndbeyond.com/sources/basic-rules/using-ability-scores#Persuasion) +3
+> - **Senses** Passive Perception 7
+> - **Languages** Bullywug
 > ___
-> ***Spellcasting (Prodigy).*** Amafrey is a 2nd-level spellcaster.
-> Her spellcasting ability modifier is Charisma (spell save DC 9, +1 to hit with spell attacks). Amafrey has the following warlock spells prepared:
+> ***Amphibious.*** They can breathe air and water.
 >
->Cantrips (at will): [_**fire bolt**_](https://www.dndbeyond.com/spells/fire-bolt), [_**mage hand**_](https://www.dndbeyond.com/spells/mage-hand)
+> ***Speak with Frogs and Toads.*** They can communicate simple concepts to frogs and toads when speaking in Bullywug.
 >
->1st level (2 slots): [_**burning hands**_](https://www.dndbeyond.com/spells/burning-hands), [_**tashas hideous laughter**_](https://www.dndbeyond.com/spells/tashas-hideous-laughter)
+> ***Swamp Camouflage.*** They have advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
+>
+> ***Standing Leap.*** Their long jump is up to 20 feet and their high jump is up to 10 feet, with or without a running start.
+>
+> ***Spellcasting (Mage).*** Wug, the Bully is a 1st-level spellcaster.
+> Their spellcasting ability modifier is Intelligence (spell save DC 10, +2 to hit with spell attacks). Wug, the bully has the following wizard spells prepared:
+>
+> Cantrips (at will): [_**fire bolt**_](https://www.dndbeyond.com/spells/fire-bolt), [_**mage hand**_](https://www.dndbeyond.com/spells/mage-hand)
+>
+> 1st level (2 slots): [_**burning hands**_](https://www.dndbeyond.com/spells/burning-hands)
 > ### Actions
-> ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+> ***Spear.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 
 <img
   src='https://www.dndbeyond.com/attachments/0/609/ch1bruenor.png'
