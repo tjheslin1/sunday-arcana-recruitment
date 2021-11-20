@@ -31,11 +31,7 @@ When you reach this level, regardless of your, class or classes, you can start t
 <div style='margin-top:0px'></div>
 
 Followers start at 1st-level and have the statistics of a sidekick,
-detailed in [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
-
-<div class='descriptive'>
-With approval of your DM, followers you recruit can start beyond 1st-level and/or have existing statistics detailed in a stat block.
-</div>
+detailed in [Tasha's Cauldron of Everything (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
 
 <div style='margin-top:0px'></div>
 
@@ -50,9 +46,7 @@ necessary for your adventures.
 - A Spellcasting sidekick with the _Role_ of Mage who has studied a school of magic under your guidance
 and is now capable of their own research as well as undertaking adenturing tasks you have assigned them.
 
-<div style='margin-top:200px'></div>
-
-Before a follower can set out on their first task, they will require an investment to cover the cost
+Before a follower can set out on their first task, they will require investment to cover the cost
 daily expensive such as food and lodging, travel, adventuring gear, etc.
 
 ##### Required starting investment
@@ -73,44 +67,47 @@ daily expensive such as food and lodging, travel, adventuring gear, etc.
 
 The Dungeon Master's Tools chapter of
 [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#CreatingaSidekick)
-has the full guide on creating a sidekick. Below is a rough and quick guide to creating a sidekick of each type.
+has the full guide on creating a sidekick. Below is a rough and quick guide to creating each type of sidekick.
 
 ## Expert
 
 Start with the statistics of a [_**Scout**_](https://www.dndbeyond.com/monsters/scout),
-removing _**Keen Hearing and Sight**_ and _**Multiattack**_, with hit points equal to 11 (2d8 + 2),
-and keeping their physical and mental attributes unchanged or rolling new statistics (3d6 per attribute).
+removing _**Keen Hearing and Sight**_ and _**Multiattack**_.
+
+Keep their physical and mental attributes unchanged or roll new statistics (3d6 per attribute).
 Choose an appropriate Humanoid type and alignment.
 
-As a 1st-level Expert, gain saving throw, skill, weapon and armour proficiencies according to
+As a 1st-level sidekick, their hit points should be 1d8 (or 1d6 for a Small character) + their constitution modifier (minumum 1).
+
+As a 1st-level Expert, they gain saving throw, skill, weapon and armour proficiencies according to
 [Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies).
 
-The Expert has the [_**Helpful**_](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Helpful) feature.
+The Expert has the 1st-level [_**Helpful**_](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Helpful) feature.
 
 ## Spellcaster
 
-Start with the statistics of an [_**Acolyte**_](https://www.dndbeyond.com/monsters/acolyte),
-keeping their physical and mental attributes unchanged or rolling new statistics (3d6 per attribute).
+Start with the statistics of an [_**Acolyte**_](https://www.dndbeyond.com/monsters/acolyte).
+
+Keep their physical and mental attributes unchanged or rolling new statistics (3d6 per attribute).
 Choose an appropriate Humanoid type and alignment.
 
-As a 1st-level Spellcaster, gain saving throw, skill, weapon and armour proficiencies according to
+As a 1st-level Spellcaster, they gain saving throw, skill, weapon and armour proficiencies according to
 [Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies1).
 
-The Spellcaster's known spells are replaced by those from a class list, in the [Spellcasting Table (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#SpellcastingTable) dependant on the chosen _Role_: Mage, Healer or Prodigy,
-as is the spellcasting ability.
+Decide the Spellcaster's _Role_: Mage, Healer or Prodigy, and choose the Spellcaster's known spells from an appropriate class list, detailed in in the [Spellcasting Table (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#SpellcastingTable).
 
 ## Warrior
 
 Start with the statistics of a [_**Hobgoblin**_](https://www.dndbeyond.com/monsters/hobgoblin),
-removing _**Darkvision**_ and _**Martial Advantage**_, and keeping their physical and mental attributes
-unchanged or rolling new statistics (3d6 per attribute). Choose an appropriate Humanoid type and alignment.
+removing _**Darkvision**_ and _**Martial Advantage**_.
 
-As a 1st-level Warrior, gain saving throw, skill, weapon and armour proficiencies according to
+Keep their physical and mental attributes unchanged or rolling new statistics (3d6 per attribute).
+Choose an appropriate Humanoid type and alignment.
+
+As a 1st-level Warrior, they gain saving throw, skill, weapon and armour proficiencies according to
 [Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies2).
 
 Choose a Martial Role: Attack or Defender.
-
-<div style='margin-top:200px'></div>
 
 > #### Warrior Example: _Amafrey_
 > Amafrey starts with the statistic of a Hobgoblin. Her statistics re-rolled to: 9,13,9,18,9,9.
