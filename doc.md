@@ -192,20 +192,6 @@ To determine the success or failure of a follower's adventure, roll on the appro
 
 Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p3) and [Adventure difficulty](#p5).
 
-##### Follower adventure: Challenge 0-4
-| d100 | Result |
-|:----:|:-------------|
-| 1-30 | Roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p4) |
-| 31-79 | Adventure is delayed by d4 (2) days. |
-| 80-100+ | Roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p4) |
-
-##### Follower adventure: Challenge 5-10
-| d100 | Result |
-|:----:|:-------------|
-| 1-40 | Roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p4) |
-| 41-79 | Adventure is delayed by d8 (4) days. |
-| 80-100+ | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
-
 > ##### Example
 > A group of followers is close to completing their Challenge Rating 1 adventure.
 >
@@ -219,6 +205,24 @@ Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p
 > <div style='margin-top:0px; margin-left:20px; font-family:consolas'>26 + 5 + 5 = 36</div>
 >
 > With a 36 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
+
+<div style='margin-top:150px'></div>
+
+<div class='wide'>
+##### Follower adventure: Challenge 0-4
+| d100 | Result |
+|:----:|:-------------|
+| 1-30 | Roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p4) |
+| 31-79 | Adventure is delayed by d4 (2) days. |
+| 80-100+ | Roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p4) |
+
+##### Follower adventure: Challenge 5-10
+| d100 | Result |
+|:----:|:-------------|
+| 1-40 | Roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p4) |
+| 41-79 | Adventure is delayed by d8 (4) days. |
+| 80-100+ | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
+	</div>
 
 \page
 
