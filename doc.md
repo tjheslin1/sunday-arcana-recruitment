@@ -97,6 +97,12 @@ The Dungeon Master's Tools chapter of
 [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#CreatingaSidekick)
 has the full guide on creating a sidekick. Below is a rough and quick guide to creating each type of sidekick.
 
+<div style='margin-top:50px'></div>
+
+<div class='descriptive'>
+As a 1st-level sidekick, their hit points should be 1d8 (or 1d6 for a Small character) + their constitution modifier (minumum 1).
+</div>
+
 ## Expert
 
 Start with the statistics of a [_**Scout**_](https://www.dndbeyond.com/monsters/scout),
@@ -104,8 +110,6 @@ removing _**Keen Hearing and Sight**_ and _**Multiattack**_.
 
 Keep their physical and mental attributes unchanged or roll new statistics (3d6 per attribute).
 Choose an appropriate Humanoid type and alignment.
-
-As a 1st-level sidekick, their hit points should be 1d8 (or 1d6 for a Small character) + their constitution modifier (minumum 1).
 
 As a 1st-level Expert, they gain saving throw, skill, weapon and armour proficiencies according to
 [Bonus Proficienies (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#BonusProficiencies).
@@ -138,7 +142,7 @@ As a 1st-level Warrior, they gain saving throw, skill, weapon and armour profici
 Choose a Martial Role: Attack or Defender.
 
 > #### Warrior Example: _Amafrey_
-> Amafrey starts with the statistic of a Hobgoblin. Her statistics re-rolled to: 9,13,9,18,9,9.
+> Amafrey starts with the statistic of a Hobgoblin. Her statistics are re-rolled to: 9,13,9,18,9,9.
 > She is a Humanoid (Human), neutral good.
 >
 > She gains proficiency in Constitution saving throws, Athletics and Nature,
