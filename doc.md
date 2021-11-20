@@ -168,7 +168,25 @@ Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p
 | 41-79 | Adventure is delayed by d8 (4) days. |
 | 80-100+ | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
 
-### Preparation
+> ##### Example
+> A group of followers is close to completing their Challenge Rating 1 adventure.
+>
+> To track their progress the DM rolls a d100, with a result of 26. With a 26 the party
+> are going to fail their adventure and have to roll on the _Adventure Failure_ table.
+>
+> The player has, however, prepared them.
+>
+> With an investment pf 20gp they gain a +5 and they have been given one _follower item_ which gives them a further +5.
+>
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>26 + 5 + 5 = 36</div>
+>
+> With a 36 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Preparation
 
 Preparation is often key to the success of an adventure, without which followers might meet an untimely,
 and quick, end.
@@ -176,7 +194,7 @@ and quick, end.
 Luck also plays an element, but can be influenced in the right, or wrong,
 direction.
 
-<div style='margin-top:100px'></div>
+<div style='margin-top:0px'></div>
 
 Beyond the [Required starting investment](#p1), any additional funding increases the likelihood
 that followers survive to achieve your goals and gain higher levels.
@@ -184,6 +202,13 @@ that followers survive to achieve your goals and gain higher levels.
 <div style='margin-top:0px'></div>
 
 Followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise. The more the player invests in the adventure, the more likely it will be successful.
+
+<div class='descriptive'>
+To reduce tracking of funds, and overall simplicity, assume followers have spent all of their coin upon returning from an adventure.
+
+This expenditure covers their preparation ahead of the adventure as well as costs incurred during,
+such as sustenance, lodging and any money utilised to achieve the goal of the adventure, such as bribing a guard to let them pass.
+</div>
 
 ##### Player investment
 | Adventure roll modifier | Player investment |
@@ -193,7 +218,11 @@ Followers will use any coin provided to prepare themselves with items such a rat
 | +10 | 50gp |
 | +20 | 100gp+ |
 
-A _follower item_ is a magic item, or non-magical piece of adventuring gear above 25gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
+<div style='margin-top:400px'></div>
+
+### Follower item
+
+A _follower item_ is a magic item, or non-magical adventuring gear above 75gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
 
 These could be newly provided or items that the followers are already in the possession of.
 
