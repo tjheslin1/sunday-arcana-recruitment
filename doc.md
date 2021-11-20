@@ -167,7 +167,9 @@ or hunting down a desired artifact; prayer at a local temple, in service to your
 at an office established by the player or a university; or any other task that the player
 has deemed a worthy endeavour for them.
 
-Followers not dedicated to a task such as these, will likely spend their time
+<div style='margin-top:0px'></div>
+
+Followers not dedicated to a task such as these will likely spend their time
 adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
 
 <div style='margin-top:0px'></div>
@@ -180,9 +182,13 @@ Followers may adventure to:
 
 - Deliver a message of ill omen on behalf of the player.
 
-<div style='margin-top:0px'></div>
+<div style='margin-top:0px'></div>  
+
+### Success or failure?
 
 To determine the success or failure of a follower's adventure, roll on the approprite table below.
+
+<div style='margin-top:0px'></div>
 
 Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p3) and [Adventure difficulty](#p5).
 
