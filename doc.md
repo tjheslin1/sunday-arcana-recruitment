@@ -61,13 +61,9 @@ daily expensive such as food and lodging, travel, adventuring gear, etc.
 | 1st  | 50gp |
 | Each level beyond 1st | additional 50gp |
 
-<div style='position:absolute; opacity: 60%; bottom:50px; left:450px; width:100%'>
-  <img
-    src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
-    style='opacity: 60%; width: 1000px' />
-
-  <figcaption style='margin-left:200px'>Wug, the Bully</figcaption>
-</div>
+<img
+  src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
+  style='position:absolute; opacity: 60%; bottom:50px; left:550px; width:100%' />
 
 \page
 
@@ -123,14 +119,12 @@ Choose a Martial Role: Attack or Defender.
 > She gains proficiency in Constitution saving throws, Athletics and Nature,
 all armour as well as simple and martial weapons.
 >
-> Amafrey chooses the Defender as her Martial Role.
+> Amafrey chooses Defender as her Martial Role.
 
 <div style='overflow: hidden; position: absolute; bottom:10px; right:50px; width:250px'>
 <img
   src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-005.png'
-  style='opacity:45%; width:800px; margin-left:10px; margin-right:0px;' />
-
-<!-- <figcaption style='margin-bottom:0px'>Marco Asotorio</figcaption> -->
+  style='opacity:55%; width:800px; margin-left:10px; margin-right:0px;' />
 </div>
 
 \page
