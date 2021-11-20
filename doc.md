@@ -4,6 +4,34 @@ table th:first-of-type {
 }
 </style>
 
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+# Followers
+
+<div style='margin-top:25px'></div>
+<div class='wide'>
+##### In an ominous universe, a botanist opposes terrorism.
+</div>
+
+<div style='margin-top:100px'></div>
+
+<img
+  src='https://d1vzi28wh99zvq.cloudfront.net/images/site_resources/DMsGuildLogo.jpg'
+  style='opacity: 80%; width:30%; position:absolute; left: 50%; margin-left:-123px;' />
+
+<div style='overflow: hidden; position: absolute; bottom:10px; left: 50%; width:250px; margin-left:-125px;'>
+<img
+  src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/04-004.png'
+  style='opacity:80%; width:1000px; margin:0 0 0 -365px;' />
+</div>
+
+\page
+
 <div class='pageNumber auto'></div>
 
 # Recruitment
