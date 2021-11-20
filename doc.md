@@ -131,9 +131,9 @@ all armour as well as simple and martial weapons.
 # Follower adventures
 
 Followers might be encouraged to devote their time to trade, selling magic items aquired by the player,
-or huntting down a desired artifact; prayer at a local temple, in service to your shared diety; study,
-at an office established by the player or a university; or any other time consuming task that the player
-has convinced them is a worthy endeavour.
+or hunting down a desired artifact; prayer at a local temple, in service to your shared diety; study,
+at an office established by the player or a university; or any other task that the player
+has deemed a worthy endeavour for them.
 
 Followers not dedicated to a task such as these, will likely spend their time
 adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
@@ -147,7 +147,6 @@ Followers may adventure to:
 - Scout an area in search of a shrine or enemy encampment.
 
 - Deliver a message of ill omen on behalf of the player.
-
 
 <div style='margin-top:0px'></div>
 
