@@ -383,6 +383,9 @@ To calculate a party of follower's level, take the average level of the group, r
 > The exact number of followers is not factored into the _Adventure difficulty_ calculation.
 >
 > It is assumed that an appropriate number of followers approach the task.
+>
+> If too few, or too many, followers are sent on a task, consider adjusting the difficulty proportionally.
+> Instead, you could treat result as an auto-success, or auto-failure.
 
 <div style='margin-top:400px'></div>
 
