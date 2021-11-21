@@ -212,19 +212,19 @@ Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p
 
 <div class='wide'>
 
-##### Follower adventure: Challenge 0-4
+##### Follower adventure result: Challenge 0-4
 | d100 | Result |
 |:----:|:-------------|
-| 1-30 | Roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p4) |
+| 1-30 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p4) |
 | 31-79 | Adventure is delayed by d4 (2) days. |
-| 80-100+ | Roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p4) |
+| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p4) |
 
-##### Follower adventure: Challenge 5-10
+##### Follower adventure result: Challenge 5-10
 | d100 | Result |
 |:----:|:-------------|
-| 1-40 | Roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p4) |
+| 1-40 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p4) |
 | 41-79 | Adventure is delayed by d8 (4) days. |
-| 80-100+ | Roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
+| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
 </div>
 
 \page
@@ -423,8 +423,12 @@ Just as followers of yours are about to set out on an adventure, you are struck 
 
 You can use _Flash of Genius_ to direct followers to take an otherwise unthought of strategy.
 
-When you do so your follower, or followers, have a chance of completing their adventure in less time,
-without affecting their chance of success.
+When you do so your follower, or followers, have a chance of completing their adventure in less time.
+
+When you roll on a _Follower adventure result_ table, if the roll results in _"Adventure is delayed by..."_,
+you re-roll, adding your Artificer level as an adventure roll modifier.
+
+You cannot benefit from _Ingenious scheme_ more than once per adventure.
 
 ## Barbarian
 
@@ -629,12 +633,17 @@ _Prerequisite: at least one recruited follower_
 
 # Appendix A: Follower adventure outcome
 
+The following tables can be used to add further results beyond the outcome of the follower's assigned task.
+
+If the randomly determined outcome is not preferable, choose from one of the options of a lower roll. Alternatively, roll again!
+
 <div class='wide'>
 ### Adventure success: Challenge 0-4
 | d100 | Outcome |
 |:------:|:-------------|
-| 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, except that it has an extreme aversion to the sea and any other source of salt water. |
+| 1-5 | Exhaustion. The party require 1d6 days to recover before beginning their next adventure. |
+| 6-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
 | 31-59 | 2d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
 | 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
@@ -646,18 +655,26 @@ _Prerequisite: at least one recruited follower_
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-10 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
-| 11-89 | ... |
-| 90-94 | One randomly determined follower leaves the party out of fear. |
-| 95-99 | One randomly determined follower dies. |
+| 11-20 | ... |
+| 41-50 | Exhaustion. The party require 1d10 days to recover before beginning their next adventure. |
+| 70-79 | One follower gains a rival, who benefited from the follower's failure. |
+| 80-89 | The party encountered a group with alterior aims, who thwarted the follower's attempts to complete their task. |
+| 90-94 | One follower leaves the party out of fear. |
+| 95-99 | One follower dies. |
 | 100 | Total party kill of followers. |
 </div>
+
+\page
+
+<div class='pageNumber auto'></div>
 
 <div class='wide'>
 ### Adventure success: Challenge 5-10
 | d100 | Outcome |
 |:------:|:-------------|
-| 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery it is a brave and reliable steed, except that it has an extreme aversion to the sea and any other source of salt water. |
+| 1-5 | Exhaustion. The party require 1d8 days to recover before beginning their next adventure. |
+| 6-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
 | 31-59 | 8d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 | 80-99 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
@@ -669,9 +686,12 @@ _Prerequisite: at least one recruited follower_
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-5 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
-| 6-89 | ... |
-| 90-94 | One randomly determined follower leaves the party out of fear. |
-| 95-99 | One randomly determined follower dies. |
+| 6-20 | ... |
+| 41-50 | Exhaustion. The party require 2d6 days to recover before beginning their next adventure. |
+| 70-79 | One follower gains a rival, who benefited from the follower's failure. |
+| 80-89 | The party encountered a group with alterior aims, who thwarted the follower's attempts to complete their task. |
+| 90-94 | One follower leaves the party out of fear. |
+| 95-99 | One follower dies. |
 | 100 | Total party kill of followers. |
 </div>
 
