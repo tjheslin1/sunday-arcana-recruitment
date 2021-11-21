@@ -267,7 +267,7 @@ such as sustenance, lodging and any money utilised to achieve the goal of the ad
 
 ### Follower item
 
-A _follower item_ is a magic item, or non-magical adventuring gear above 75gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
+A _follower item_ is a magic item, or a set of non-magical adventuring gear above 75gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
 
 These could be newly provided or items that the followers are already in the possession of.
 
@@ -282,7 +282,7 @@ These could be newly provided or items that the followers are already in the pos
 
 - A Warrior sidekick leading a group of followers into a dungeon could be provided with
 a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing) and [_**weapon of warning**_](https://www.dndbeyond.com/magic-items/weapon-of-warning), to increase their survivability.
-- A Spellcaster sidekick with the Mage _Role_ can be supplied with the materials
+- A Spellcaster sidekick with the _Role_ of Mage might be supplied with the materials
 necessary to copy new spells into their spellbook.
 - An Expert sidekick performing an act of burglary on your behalf could be
 given a [_**potion of invisibility**_](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
@@ -354,7 +354,9 @@ to increase their chance of success.
 
 ## Adventure difficulty
 
-Followers might be pitted against challenges that are comparitively easy or difficult than what would be deemed a suitable challenge for them.
+Followers might be pitted against challenges that they could very likely overcome, given their levels. Likewise followers might be assigned a task far beyond their capabilities, perhaps out of necessity.
+
+When the party's level does not match the challenge rating of the adventure, an additional adventure roll modifier comes into play.
 
 <div class='descriptive'>
 To calculate a party of follower's level, take the average level of the group, rounded down, with a minimum of 1.
@@ -396,6 +398,8 @@ To calculate a party of follower's level, take the average level of the group, r
 > <div style='margin-top:0px; margin-left:20px; font-family:consolas'>10 x (1 - 2) = -10</div>
 >
 > The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
+>
+> <div style='margin-top:0px'></div>
 >
 > **Tip**: This negative modifier can be offset by _player investment_ and _provided equipment_.
 
@@ -623,7 +627,7 @@ _Prerequisite: at least one recruited follower_
 # Appendix A: Follower adventure outcome
 
 <div class='wide'>
-##### Adventure success: Challenge 0-4
+### Adventure success: Challenge 0-4
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
@@ -635,7 +639,18 @@ _Prerequisite: at least one recruited follower_
 </div>
 
 <div class='wide'>
-##### Adventure success: Challenge 5-10
+### Adventure failure: Challenge 0-4
+| d100 | Outcome |
+|:------:|:-------------|
+| 1-10 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
+| 11-89 | ... |
+| 90-94 | One randomly determined follower leaves the party out of fear. |
+| 95-99 | One randomly determined follower dies. |
+| 100 | Total party kill of followers. |
+</div>
+
+<div class='wide'>
+### Adventure success: Challenge 5-10
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
@@ -647,18 +662,7 @@ _Prerequisite: at least one recruited follower_
 </div>
 
 <div class='wide'>
-##### Adventure failure: Challenge 0-4
-| d100 | Outcome |
-|:------:|:-------------|
-| 1-10 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
-| 11-89 | ... |
-| 90-94 | One randomly determined follower leaves the party out of fear. |
-| 95-99 | One randomly determined follower dies. |
-| 100 | Total party kill of followers. |
-</div>
-
-<div class='wide'>
-##### Adventure failure: Challenge 5-10
+### Adventure failure: Challenge 5-10
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-5 | One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the harrowing experience of the adventure. |
