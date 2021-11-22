@@ -296,57 +296,47 @@ to increase their chance of success.
 
 <div class='pageNumber auto'></div>
 
-<div class='wide'>
-
 ## Adventure challenge ratings
+
+Some follower adventures will have a clear challenge rating.
+If a task set to a group of followers was originally designed for players,
+the group will have a good chance of succeeding if they are of the same level that the encounter was expecting.
+
+<div style='margin-top:0px'></div>
+
+Not all adventures will be this clear to determine their difficulty;
+the below tables contain example scenarios of social interaction, combat and exploration adventures to compare to.
 
 ##### Social Interaction Adventure
 | Challenge rating | Cookie Type |
 |:----:|:-------------|
-| 0  | Deliver a simple message to a known creature at a known location. |
-| 1  | Deliver a persuasive message to a known creature at a known location. |
-| 2 | Deliver a threatening message to a known creature at a known location. |
-| 3 | Decieve, persuade or threaten...  |
-| 4 | .. |
-| 5 | .. |
-| 6 | .. |
-| 7 | .. |
-| 8 | .. |
-| 9 | .. |
-| 10 | .. |
-</div>
+| 1 | Deliver a simple message to a known creature at a known, safe location. |
+| 2 | Deliver a persuasive message to a known creature at a known, safe location. |
+| 3 | Deliver a threatening or deceitful message to a known creature at a known, safe location. |
 
-<div class='wide'>
 ##### Combat Adventure
 | Challenge rating | Cookie Type |
 |:----:|:-------------|
-| 0  | Clear a known, simple, dungeon with little to no traps and monsters. |
-| 1  | Clear a known, simple, dungeon with a few traps and/or a few monsters. |
-| 2 | Clear a known, expansive, dungeon with a few traps and/or a few monsters. |
-| 3 | Clear, persuade or threaten  |
-| 4 | .. |
-| 5 | .. |
-| 6 | .. |
-| 7 | .. |
-| 8 | .. |
-| 9 | .. |
-| 10 | .. |
+| 1 | Clear a dungeon of its enemies with little to monsters. |
+| 2 | Eiminate a small group of goblins. |
+| 3 | Clear an expansive dungeon with monsters of CR less than, or equal to, 2. |
 
 ##### Exploration Adventure
 | Challenge rating | Cookie Type |
 |:----:|:-------------|
-| 0  | Clear a known, simple, dungeon with little to no traps and monsters. |
-| 1  | Clear a known, simple, dungeon with a few traps and/or a few monsters. |
-| 2 | Clear a known, expansive, dungeon with a few traps and/or a few monsters. |
-| 3 | Clear, persuade or threaten  |
-| 4 | .. |
-| 5 | .. |
-| 6 | .. |
-| 7 | .. |
-| 8 | .. |
-| 9 | .. |
-| 10 | .. |
-</div>
+| 1 | Explore a ruin. |
+| 2 | Explore a dungeon with a few traps. |
+| 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
+
+### A Combination?
+
+If the intended task requires two, or even all three of the pillars of adventure,
+the challenge rating of the overall adventure should either be equal to the highest individual challenge rating, if this takes up a significant propoprtion of the parties time; or an average, rounded up, of the individual tasks that comprise the adventure.
+
+<div style='margin-top:0px'></div>
+
+Unraveling a mystery in a quiet town, for example, might involve gathering information from the local residents (Social),
+finding a nearby cave (Exploration) and finishing off the adventure with a fight against the perpetrators (Combat).
 
 \page
 
