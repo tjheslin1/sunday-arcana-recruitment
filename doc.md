@@ -190,7 +190,7 @@ To determine the success or failure of a follower's adventure, roll on the appro
 
 <div style='margin-top:0px'></div>
 
-Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p3) and [Adventure difficulty](#p5).
+Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p5) and [Adventure difficulty](#p7).
 
 <div style='margin-top:0px'></div>
 
@@ -215,16 +215,16 @@ Modifiers to the roll include: [Player investment](#p3), [Provided equipment](#p
 ##### Follower adventure result: Challenge 0-4
 | d100 | Result |
 |:----:|:-------------|
-| 1-30 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p4) |
+| 1-30 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
 | 31-79 | Adventure is delayed by d4 (2) days. |
-| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p4) |
+| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
 
 ##### Follower adventure result: Challenge 5-10
 | d100 | Result |
 |:----:|:-------------|
-| 1-40 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p4) |
+| 1-40 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
 | 41-79 | Adventure is delayed by d8 (4) days. |
-| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p4) |
+| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
 </div>
 
 \page
@@ -241,7 +241,7 @@ direction.
 
 <div style='margin-top:0px'></div>
 
-Beyond the [Required starting investment](#p1), any additional funding increases the likelihood
+Beyond the [Required starting investment](#p2), any additional funding increases the likelihood
 that followers survive to achieve your goals and gain higher levels.
 
 <div style='margin-top:0px'></div>
@@ -439,7 +439,7 @@ _Prerequisite: at least one recruited follower_
 
 You can spend a point of rage to... inspire... one of your followers to succeed in their next adventure.
 
-The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p4), you can reroll; you must keep the new role.
+The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p10), you can reroll; you must keep the new role.
 
 ## Bard
 
@@ -472,7 +472,7 @@ As an action, you present your holy symbol and followers that can see or hear yo
 are bolstered with a divine confidence.
 
 With this your followers will not leave their party out of fear,
-possiblly as a result when rolling on an _Adventure failure_ table in [Appendix A](#p4), during their next adventure.
+possiblly as a result when rolling on an _Adventure failure_ table in [Appendix A](#p10), during their next adventure.
 
 <img
   src='https://media.dndbeyond.com/compendium-images/tcoe/0gqawlEa2tjXGxpc/01-026.png'
