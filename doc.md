@@ -400,7 +400,9 @@ To calculate a party of follower's level, take the average level of the group, r
 
 <div class='pageNumber auto'></div>
 
-# Class Features
+# Interacting with followers
+
+## Optional Class Features
 
 ## Artificer
 
@@ -439,9 +441,9 @@ _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
 You have vouched for a follower of your choice to join a network of bards that can be used to gather,
-or propagate, information.
+and propagate, information.
 
-The challenge rating of any Social adventures this follower takes part in,
+The challenge rating of Social-based adventures this follower takes part in,
 whilst a member of this network, is decreased by 1.
 
 The influential network might spread misinformation to spook a villain out of hiding;
@@ -461,7 +463,7 @@ You can use your Channel Divinity to reassert the benefits of devotion to your d
 As an action, you present your holy symbol and followers that can see or hear you within 30 feet
 are bolstered with a divine confidence.
 
-With this your followers will not leave their party out of fear,
+With this inpsiration your followers will not leave their party out of fear,
 possiblly as a result when rolling on an _Adventure failure_ table in [Appendix A](#p10), during their next adventure.
 
 <img
@@ -470,7 +472,7 @@ possiblly as a result when rolling on an _Adventure failure_ table in [Appendix 
 
 ## Druid
 
-### Wild Guide
+### Wild guide
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
@@ -479,8 +481,8 @@ You can expend a use of your Wild Shape feature to guide followers within 50 mil
 For the next 8 hours they can travel twice as far across any natural ground and ignore difficult terrain.
 
 Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths of a forest,
-a steady, sweet smelling, breeze that blows across fields towards a hidden mountain path
-or an anmial spirit that travels with the group as long as they remain out of combat.
+a steady, sweet smelling, breeze that blows across fields towards a hidden mountain pass
+or an anmial spirit that travels with the group for as long as they remain out of combat.
 
 ## Fighter
 
@@ -494,7 +496,7 @@ A follower of yours has received martial training, including strategy.
 With this guidance they are an ideal candidate as strategist of their party,
 and as such the party tends to be more organised, and successful.
 
-The challenge rating of any Combat adventures this follower takes part in is decreased by 1.
+The challenge rating of Combat-based adventures this follower takes part in is decreased by 1.
 
 ## Monk
 
@@ -516,16 +518,16 @@ _Prerequisite: at least one recruited follower_
 
 ## Ranger
 
-### Natural explorer
+### Gifted navigator
 
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-A follower of yours has been taught a deeper appreciation of the surrounding natural environment.
+A follower of yours has been bestowed a deeper appreciation of the surrounding natural environment.
 
 With this guidance they are an ideal candidate as navigator of their party.
 
-The challenge rating of any Exploration adventures this follower takes part in is decreased by 1.
+The challenge rating of Exploration-based adventures this follower takes part in is decreased by 1.
 
 ## Rogue
 
@@ -598,7 +600,7 @@ As patron of this follower:
 <div style='margin-top:0px'></div>
 
 You cannot change this eldritch invocation whilst you have a pact with a follower.
-If the Profigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
+If the Prodigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
 another of your followers.
 
 > #### Prodigy Example: _Amafrey_
@@ -608,7 +610,9 @@ another of your followers.
 >
 > Amafrey's saving throw proficiency changes from Constitution to Charisma and her skill proficiencies are now: History and Investigation.
 >
-> Amafrey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast). _Amafrey_ey also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
+> Amafrey retains her proficiency with her longsword and medium armour and takes two cantrips from the warlock spell list: [_**booming blade**_](https://www.dndbeyond.com/spells/booming-blade) and [_**eldritch blast**_](https://www.dndbeyond.com/spells/eldritch-blast).
+>
+> She also takes two 1st-level spell from the warlock spell list: [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys) and [_**hex**_](https://www.dndbeyond.com/spells/hex).
 
 ## Wizard
 
