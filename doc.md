@@ -99,7 +99,7 @@ has the full guide on creating a sidekick. Below is a rough and quick guide to c
 <div style='margin-top:50px'></div>
 
 <div class='descriptive'>
-As a 1st-level sidekick, their hit points should be 1d8 (or 1d6 for a Small character) + their constitution modifier (minumum 1).
+As a 1st-level sidekick, their hit points should be 1d8 (or 1d6 for a Small character) + their constitution modifier (minumum of 1).
 </div>
 
 ## Expert
@@ -185,7 +185,7 @@ Followers may adventure to:
 
 ### Success or failure?
 
-To determine the success or failure of a follower's adventure, roll on the approprite table below.
+To determine the success or failure of a follower's adventure, when the Dungeon Master (DM) deems that a suitable amount of time has passed for the adventure to have finished, roll on the approprite table below.
 
 <div style='margin-top:0px'></div>
 
