@@ -36,15 +36,14 @@ table th:first-of-type {
 
 # Recruitment
 
-As an adventurer becomes more established in their world, it is inevitable that they
+As an adventurer becomes more established in their world, it is likely that they
 come across followers who wish to join them and follow in their success.
 
 Followers might be bards who tell the stories of the character's conquests, warriors who fight for the same cause
-or priests who have come to join them in their worship.
+or priests who have come to join them in their beliefs.
 
 <div class='descriptive'>
-Followers are not intended to directly join the party but instead be working towards their own goals -
-possibly their own adventures - which align with the desires of the player.
+The rules outlined here are intended for followers who persue their own goals, possibly their own adventures, which align with the desires of the player; not in joining the party directly.
 </div>
 
 ## Optional Class Features
