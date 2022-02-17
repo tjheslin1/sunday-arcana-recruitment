@@ -636,12 +636,11 @@ If the randomly determined outcome is not preferable, choose from one of the opt
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-5 | Exhaustion. The party require 1d6 days to recover before beginning their next adventure. |
-| 6-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
-| 31-59 | 2d10gp obtained. |
-| 60-79 | Roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
-| 80-99 | 2d10 gp and roll once on [Magic Item Table A](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableA) of the DMG to determine an obtained magic item. |
-| 100 | All followers gain a level. Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
+| 6-24 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 25-29 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
+| 30-59 | 4d10gp obtained. |
+| 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
+| 80-100 | 4d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 </div>
 
 <div class='wide'>
@@ -667,12 +666,11 @@ If the randomly determined outcome is not preferable, choose from one of the opt
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-5 | Exhaustion. The party require 1d8 days to recover before beginning their next adventure. |
-| 6-25 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 26-30 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
-| 31-59 | 8d10gp obtained. |
+| 6-24 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
+| 25-29 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
+| 30-59 | 8d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
-| 80-99 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
-| 100 | All followers gain a level. Roll once on [Magic Item Table C](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableC) of the DMG to determine an obtained magic item. |
+| 80-100 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 </div>
 
 <div class='wide'>
