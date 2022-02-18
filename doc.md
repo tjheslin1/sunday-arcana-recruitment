@@ -308,26 +308,24 @@ the group will have a good chance of succeeding if they are of the same level th
 Not all adventures will be this clear to determine their difficulty;
 the below tables contain example scenarios of social interaction, combat and exploration adventures to compare to.
 
+##### Exploration Adventure
+| Challenge rating | Example description |
+|:----:|:-------------|
+| 1 | Explore a ruin. |
+| 2 | Explore a dungeon, possibly with a few traps non lethal traps. |
+| 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
+| 4 | Complete any, or all, of the adove whilst remaining undetected.|
+
 ##### Social Interaction Adventure
-| Challenge rating | Cookie Type |
+| Challenge rating | Example description |
 |:----:|:-------------|
 | 1 | Deliver a simple message to a known creature at a known, safe location. |
 | 2 | Deliver a persuasive message to a known creature at a known, safe location. |
 | 3 | Deliver a threatening or deceitful message to a known creature at a known, safe location. |
+| 4 | Successfully convince, or manipulate, a local leader. |
 
 ##### Combat Adventure
-| Challenge rating | Cookie Type |
-|:----:|:-------------|
-| 1 | Clear a dungeon of its enemies with little to monsters. |
-| 2 | Eiminate a small group of goblins. |
-| 3 | Clear an expansive dungeon with monsters of CR less than, or equal to, 2. |
-
-##### Exploration Adventure
-| Challenge rating | Cookie Type |
-|:----:|:-------------|
-| 1 | Explore a ruin. |
-| 2 | Explore a dungeon with a few traps. |
-| 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
+Combat encounter building has already been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
 
 ### A Combination?
 
