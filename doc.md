@@ -196,34 +196,34 @@ Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p
 > ##### Example
 > A group of followers is close to completing their Challenge Rating 1 adventure.
 >
-> To track their progress the DM rolls a d100, with a result of 26. With a 26 the party
+> To track their progress the DM rolls a d100, with a result of 56. With a 56 the party
 > are going to fail their adventure and have to roll on the _Adventure Failure_ table.
 >
 > The player has, however, prepared them.
 >
 > With an investment pf 20gp they gain a +5 and they have been given one _follower item_ which gives them a further +5.
 >
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>26 + 5 + 5 = 36</div>
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>56 + 5 + 5 = 66</div>
 >
-> With a 36 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
+> With a 66 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
 
-<div style='margin-top:190px'></div>
+<div style='margin-top:120px'></div>
 
 <div class='wide'>
 
 ##### Follower adventure result: Challenge 0-4
 | d100 | Result |
 |:----:|:-------------|
-| 1-30 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
-| 31-79 | Adventure is delayed by d4 (2) days. |
-| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
+| 1-60 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
+| 61-70 | Adventure is delayed by d4 (2) days. |
+| 71-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
 
 ##### Follower adventure result: Challenge 5-10
 | d100 | Result |
 |:----:|:-------------|
-| 1-40 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
-| 41-79 | Adventure is delayed by d8 (4) days. |
-| 80-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
+| 1-70 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
+| 71-80 | Adventure is delayed by d8 (4) days. |
+| 81-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
 </div>
 
 \page
