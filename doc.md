@@ -258,9 +258,9 @@ such as sustenance, lodging and any money utilised to achieve the goal of the ad
 | Adventure roll modifier | Player investment |
 |:----:|:-------------|
 | -5 | None |
-| +5 | 20gp |
-| +10 | 50gp |
-| +20 | 100gp+ |
+| +5 | _Adventure challenge raiting_ x 5gp |
+| +10 | _Adventure challenge raiting_ x 25gp |
+| +20 | _Adventure challenge raiting_ x 50gp |
 
 <div style='margin-top:400px'></div>
 
@@ -269,6 +269,8 @@ such as sustenance, lodging and any money utilised to achieve the goal of the ad
 A _follower item_ is a magic item, or a set of non-magical adventuring gear above 75gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
 
 These could be newly provided or items that the followers are already in the possession of.
+
+Unlike Player investement of coin, with the exception of consumables, _follower items_ remain in the possession of the follower adventurers unless explicitly lost or destroyed.
 
 ##### Provided equipment
 | Adventure roll modifier | Number of _follower items_ |
