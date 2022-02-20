@@ -279,16 +279,16 @@ Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p
 ##### Follower adventure result: Challenge 0-4
 | d100 | Result |
 |:----:|:-------------|
-| 1-60 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
-| 61-70 | Adventure is delayed by d4 (2) days. |
-| 71-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
+| < 60 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
+| 60-70 | Adventure is delayed by d4 (2) days. |
+| > 70 | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
 
 ##### Follower adventure result: Challenge 5-10
 | d100 | Result |
 |:----:|:-------------|
-| 1-70 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
-| 71-80 | Adventure is delayed by d8 (4) days. |
-| 81-100+ | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
+| < 70 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
+| 70-80 | Adventure is delayed by d8 (4) days. |
+| > 80 | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
 </div>
 
 \page
@@ -321,7 +321,7 @@ such as sustenance, lodging and any money utilised to achieve the goal of the ad
 
 ##### Player investment
 | Adventure roll modifier | Player investment |
-|:----:|:-------------|
+|:----:|:-------------:|
 | -5 | None |
 | +5 | _Adventure challenge raiting_ x 5gp |
 | +10 | _Adventure challenge raiting_ x 25gp |
@@ -339,7 +339,7 @@ Unlike Player investement of coin, with the exception of consumables, _follower 
 
 ##### Provided equipment
 | Adventure roll modifier | Number of _follower items_ |
-|:----:|:-------------|
+|:----:|:-------------:|
 | -5 | 0 |
 | +5 | 1 |
 | +10 | 2 |
@@ -413,14 +413,14 @@ Followers might be pitted against challenges that they could very likely overcom
 When the party's level does not match the challenge rating of the adventure, an additional adventure roll modifier comes into play.
 
 <div class='descriptive'>
-To calculate a party of follower's level, take the average level of the group, rounded down, with a minimum of 1.
+To calculate the *Party level* of a group of followers, take the average level of the group, rounded down, with a minimum of 1.
 
 **Tip**: when the party's level matches the Adventure challenge rating, the difficult modifier is 0.
 </div>
 
-##### Adventure difficulty
-| Party level | Adventure roll modifier |
-|:----:|:-------------|
+##### Adventure difficultymodifier
+| Party level | modifier |
+|:----:|:-------------:|
 | 1  | 10 x (1 - _Adventure challenge rating_) |
 | 2  | 10 x (2 - _Adventure challenge rating_) |
 | 3 | 10 x (3 - _Adventure challenge rating_) |
