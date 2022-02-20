@@ -15,7 +15,7 @@ table th:first-of-type {
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
-##### In an ominous universe, a botanist opposes terrorism.
+##### Guide the next generation of adventurers in the world's greatest roleplaying game
 </div>
 
 <div style='margin-top:100px'></div>
