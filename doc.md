@@ -159,6 +159,71 @@ all armour as well as simple and martial weapons.
 
 <div class='pageNumber auto'></div>
 
+# Step by step: Building an adventure
+
+Below is a step-by-step guide to building a follower adventure.
+
+Subsequent sections will go into detail of each step.
+
+<div style='margin-top:40px'></div>
+
+<div class='descriptive'>
+Adventures undertaken by the followers are not intended to be played out.
+
+Instead, the DM should roll a d100, factoring in modifiers based on difficulty and preparation, to determine the outcome once enough time has passed for the followers to likely have completed their task.
+</div>
+
+### Step 1: Party level
+
+Determine *Party level* by taking the average level of the group, rounded down, with a minimum of 1.
+
+### Step 2: Adventure challenge rating
+
+Determine the challenge rating (CR) of the adventure.
+
+Example Exploration and Social Interaction adventures are outlined for comparison.
+
+
+
+### Step 3: Adventure difficulty modifier
+
+Calculate the adventure difficulty modifier using the *Party level* and Adventure CR:
+
+<div style='margin-top:0px; margin-left:20px; font-family:consolas'>Adventure modifier = 10 x (Party level - Adventure CR)</div>
+
+When the *Party level* matches the Adventure CR, the difficult modifier is 0.
+
+### Step 4a: Follower items modifier
+
+### Step 4b Player investment modifier
+
+<div style='margin-top:400px'></div>
+
+### Step 5: Final modifier
+
+Determine the final roll modifier. Start with the positive follower item modifier in addition to the player monetary investment modifier.
+
+Then add or subtract, depending on the challenge the followers will be facing, the adventure difficulty modifier:
+
+<div style='margin-top:0px; margin-left:20px; font-family:consolas; font-size: 11px;'>Final modifier = <br />Follower item modifier + Player investment modifier + Adventure modifier</div>
+
+### Step 6: Adventure takes place
+
+The DM decides when the adventure has concluded; this could be an hour after the adventure began, or possibly months later.
+
+### Step 7: Outcome
+
+The DM rolls to determine the outcomes of the adventure.
+
+It is possible that the roll results in the adventure being delayed. In which case the DM should roll again after the delay has passed.
+
+The DM decides the fate of the followers and their adventure. The DM may choose to follow on **Follower adventure outcome** table in Appendix A, which detail rewards and ramifications based on the adventure conclusion.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 # Follower adventures
 
 Followers might be encouraged to devote their time to trade, selling magic items aquired by the player,
