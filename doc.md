@@ -159,71 +159,6 @@ all armour as well as simple and martial weapons.
 
 <div class='pageNumber auto'></div>
 
-# Step by step: Building an adventure
-
-Below is a step-by-step guide to building a follower adventure.
-
-Subsequent sections will go into detail of each step.
-
-<div style='margin-top:40px'></div>
-
-<div class='descriptive'>
-Adventures undertaken by the followers are not intended to be played out.
-
-Instead, the DM should roll a d100, factoring in modifiers based on difficulty and preparation, to determine the outcome once enough time has passed for the followers to likely have completed their task.
-</div>
-
-### Step 1: Party level
-
-Determine *Party level* by taking the average level of the group, rounded down, with a minimum of 1.
-
-### Step 2: Adventure challenge rating
-
-Determine the challenge rating (CR) of the adventure.
-
-Example Exploration and Social Interaction adventures are outlined for comparison.
-
-
-
-### Step 3: Adventure difficulty modifier
-
-Calculate the adventure difficulty modifier using the *Party level* and Adventure CR:
-
-<div style='margin-top:0px; margin-left:20px; font-family:consolas'>Adventure modifier = 10 x (Party level - Adventure CR)</div>
-
-When the *Party level* matches the Adventure CR, the difficult modifier is 0.
-
-### Step 4a: Follower items modifier
-
-### Step 4b Player investment modifier
-
-<div style='margin-top:400px'></div>
-
-### Step 5: Final modifier
-
-Determine the final roll modifier. Start with the positive follower item modifier in addition to the player monetary investment modifier.
-
-Then add or subtract, depending on the challenge the followers will be facing, the adventure difficulty modifier:
-
-<div style='margin-top:0px; margin-left:20px; font-family:consolas; font-size: 11px;'>Final modifier = <br />Follower item modifier + Player investment modifier + Adventure modifier</div>
-
-### Step 6: Adventure takes place
-
-The DM decides when the adventure has concluded; this could be an hour after the adventure began, or possibly months later.
-
-### Step 7: Outcome
-
-The DM rolls to determine the outcomes of the adventure.
-
-It is possible that the roll results in the adventure being delayed. In which case the DM should roll again after the delay has passed.
-
-The DM decides the fate of the followers and their adventure. The DM may choose to follow on **Follower adventure outcome** table in Appendix A, which detail rewards and ramifications based on the adventure conclusion.
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
 # Follower adventures
 
 Followers might be encouraged to devote their time to trade, selling magic items aquired by the player,
@@ -248,48 +183,170 @@ Followers may adventure to:
 
 <div style='margin-top:0px'></div>  
 
-### Success or failure?
+## Step by step: Building an adventure
 
-To determine the success or failure of a follower's adventure, when the Dungeon Master (DM) deems that a suitable amount of time has passed for the adventure to have finished, roll on the approprite table below.
+Below is a step-by-step guide to building a follower adventure.
 
-<div style='margin-top:0px'></div>
+Subsequent sections will go into detail of each step.
 
-Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p5) and [Adventure difficulty](#p7).
+<div class='descriptive'>
+Adventures undertaken by the followers are not intended to be played out.
 
-<div style='margin-top:0px'></div>
-
-> ##### Example
-> A group of followers is close to completing their Challenge Rating 1 adventure.
->
-> To track their progress the DM rolls a d100, with a result of 56. With a 56 the party
-> are going to fail their adventure and have to roll on the _Adventure Failure_ table.
->
-> The player has, however, prepared them.
->
-> With an investment pf 20gp they gain a +5 and they have been given one _follower item_ which gives them a further +5.
->
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>56 + 5 + 5 = 66</div>
->
-> With a 66 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
-
-<div style='margin-top:120px'></div>
-
-<div class='wide'>
-
-##### Follower adventure result: Challenge 0-4
-| d100 | Result |
-|:----:|:-------------|
-| < 60 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
-| 60-70 | Adventure is delayed by d4 (2) days. |
-| > 70 | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
-
-##### Follower adventure result: Challenge 5-10
-| d100 | Result |
-|:----:|:-------------|
-| < 70 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
-| 70-80 | Adventure is delayed by d8 (4) days. |
-| > 80 | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
+Instead, the DM should roll a d100, factoring in modifiers based on difficulty and preparation, to determine the outcome once enough time has passed for the followers to likely have completed their task.
 </div>
+
+### Step 1: Party level
+
+Determine *Party level* by taking the average level of the group, rounded down, with a minimum of 1.
+
+### Step 2: Adventure challenge rating
+
+Determine the challenge rating (CR) of the adventure.
+
+Example Exploration and Social Interaction adventures are outlined for comparison.
+
+### Step 3: Adventure difficulty modifier
+
+Calculate the adventure difficulty modifier using the *Party level* and Adventure CR:
+
+<div style='margin-top:0px; margin-left:20px; font-family:consolas'>Adventure modifier = 10 x (Party level - Adventure CR)</div>
+
+When the *Party level* matches the Adventure CR, the difficult modifier is 0.
+
+### Step 4a: Follower items modifier
+
+### Step 4b Player investment modifier
+
+### Step 5: Final modifier
+
+Determine the final roll modifier. Start with the positive follower item modifier in addition to the player monetary investment modifier.
+
+Then add or subtract, depending on the challenge the followers will be facing, the adventure difficulty modifier:
+
+<div style='margin-top:0px; margin-left:20px; font-family:consolas; font-size: 11px;'>Final modifier = <br />Follower item modifier + Player investment modifier + Adventure modifier</div>
+
+### Step 6: Adventure takes place
+
+The DM decides when the adventure has concluded; this could be an hour after the adventure began, or possibly months later.
+
+### Step 7: Outcome
+
+The DM rolls to determine the outcomes of the adventure.
+
+It is possible that the roll results in the adventure being delayed. In which case the DM should roll again after the delay has passed.
+
+The DM decides the fate of the followers and their adventure. The DM may choose to follow on **Follower adventure outcome** table in Appendix A, which detail rewards and ramifications based on the adventure conclusion.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Party level
+
+To calculate the *Party level* of a group of followers, take the average level of the group, rounded down, with a minimum of 1.
+
+**Tip**: when the party's level matches the Adventure challenge rating, the difficult modifier is 0.
+
+## Adventure challenge ratings
+
+Some follower adventures will have a clear challenge rating.
+If a task set to a group of followers was originally designed for players,
+the group will have a good chance of succeeding if they are of the same level that the encounter was expecting.
+
+<div style='margin-top:0px'></div>
+
+Not all adventures will be this clear to determine their difficulty;
+the below tables contain example scenarios of social interaction, combat and exploration adventures to compare to.
+
+##### Exploration Adventure
+| Challenge rating | Example description |
+|:----:|:-------------|
+| 1 | Explore a ruin. |
+| 2 | Explore a dungeon, possibly with a few traps non lethal traps. |
+| 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
+| 4 | Complete any, or all, of the adove whilst remaining undetected.|
+
+##### Social Interaction Adventure
+| Challenge rating | Example description |
+|:----:|:-------------|
+| 1 | Deliver a simple message to a known creature at a known, safe location. |
+| 2 | Deliver a persuasive message to a known creature at a known, safe location. |
+| 3 | Deliver a threatening or deceitful message to a known creature at a known, safe location. |
+| 4 | Successfully convince, or manipulate, a local leader. |
+
+##### Combat Adventure
+Since combat in a follower adventure is not intended to be played out, the DM is free to set an appropriate challenge rating based on the expected resistance the followers would face.
+
+For example, followers tasked with clearing out a haunted house full of Ghosts would face a greater challenge than those tasked with driving away a group of Goblins. As such the CR of the combat encounter would be higher.
+
+If the followers are destined to face a combat encounter originally intended for Player characters, the challenge rating should be based on the expected level of the Player characters, adjusted for party size.
+
+This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters., or the level they would be expected to be in a certain area.
+
+If the DM wants to build a specific encounter for the followers to face, tables for calculcating CR have
+been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
+
+### A Combination?
+
+If the intended task requires two, or even all three of the pillars of adventure,
+the challenge rating of the overall adventure should either be equal to the highest individual challenge rating, if this takes up a significant propoprtion of the parties time; or an average, rounded up, of the individual tasks that comprise the adventure.
+
+<div style='margin-top:0px'></div>
+
+Unraveling a mystery in a quiet town, for example, might involve gathering information from the local residents (Social),
+finding a nearby cave (Exploration) and finishing off the adventure with a fight against the perpetrators (Combat).
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Adventure difficulty
+
+Followers might be pitted against challenges that they could very likely overcome, given their levels. Likewise followers might be assigned a task far beyond their capabilities, perhaps out of necessity.
+
+When the party's level does not match the challenge rating of the adventure, an additional adventure roll modifier comes into play.
+
+##### Adventure difficultymodifier
+| Party level | modifier |
+|:----:|:-------------:|
+| 1  | 10 x (1 - _Adventure challenge rating_) |
+| 2  | 10 x (2 - _Adventure challenge rating_) |
+| 3 | 10 x (3 - _Adventure challenge rating_) |
+| 4 | 10 x (4 - _Adventure challenge rating_) |
+| 5 | 10 x (5 - _Adventure challenge rating_) |
+| 6 | 10 x (6 - _Adventure challenge rating_) |
+| 7 | 10 x (7 - _Adventure challenge rating_) |
+| 8 | 10 x (8 - _Adventure challenge rating_) |
+| 9 | 10 x (9 - _Adventure challenge rating_) |
+| 10 | 10 x (10 - _Adventure challenge rating_) |
+
+> ##### Party size?
+>
+> The exact number of followers is not factored into the _Adventure difficulty_ calculation.
+>
+> It is assumed that an appropriate number of followers approach the task.
+>
+> If too few, or too many, followers are sent on a task, consider adjusting the difficulty proportionally.
+> Instead, you could treat result as an auto-success, or auto-failure.
+
+<div style='margin-top:400px'></div>
+
+> ##### Amafrey's first adventure
+> Amafrey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
+>
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>(2 + 1 + 1 + 1) / 4 = 1.25 = 1</div>
+>
+> The party have been tasked with locating a shrine known to be hidden in a nearby, relatively safe, forest. The challenge rating of this exploration adventure is 2.
+>
+> Party level 1 and Adventure challenge rating 2 results in:
+>
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>10 x (1 - 2) = -10</div>
+>
+> The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
+>
+> <div style='margin-top:0px'></div>
+>
+> **Tip**: This negative modifier can be offset by _player investment_ and _provided equipment_.
 
 \page
 
@@ -364,112 +421,51 @@ to increase their chance of success.
 
 <div class='pageNumber auto'></div>
 
-## Adventure challenge ratings
+## Outcome
 
-Some follower adventures will have a clear challenge rating.
-If a task set to a group of followers was originally designed for players,
-the group will have a good chance of succeeding if they are of the same level that the encounter was expecting.
+### Success or failure?
 
-<div style='margin-top:0px'></div>
-
-Not all adventures will be this clear to determine their difficulty;
-the below tables contain example scenarios of social interaction, combat and exploration adventures to compare to.
-
-##### Exploration Adventure
-| Challenge rating | Example description |
-|:----:|:-------------|
-| 1 | Explore a ruin. |
-| 2 | Explore a dungeon, possibly with a few traps non lethal traps. |
-| 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
-| 4 | Complete any, or all, of the adove whilst remaining undetected.|
-
-##### Social Interaction Adventure
-| Challenge rating | Example description |
-|:----:|:-------------|
-| 1 | Deliver a simple message to a known creature at a known, safe location. |
-| 2 | Deliver a persuasive message to a known creature at a known, safe location. |
-| 3 | Deliver a threatening or deceitful message to a known creature at a known, safe location. |
-| 4 | Successfully convince, or manipulate, a local leader. |
-
-##### Combat Adventure
-Since combat in a follower adventure is not intended to be played out, the DM is free to set an appropriate challenge rating based on the expected resistance the followers would face.
-
-For example, followers tasked with clearing out a haunted house full of Ghosts would face a greater challenge than those tasked with driving away a group of Goblins. As such the CR of the combat encounter would be higher.
-
-If the followers are destined to face a combat encounter originally intended for Player characters, the challenge rating should be based on the expected level of the Player characters, adjusted for party size.
-
-This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters., or the level they would be expected to be in a certain area.
-
-If the DM wants to build a specific encounter for the followers to face, tables for calculcating CR have
-been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
-
-### A Combination?
-
-If the intended task requires two, or even all three of the pillars of adventure,
-the challenge rating of the overall adventure should either be equal to the highest individual challenge rating, if this takes up a significant propoprtion of the parties time; or an average, rounded up, of the individual tasks that comprise the adventure.
+To determine the success or failure of a follower's adventure, when the Dungeon Master (DM) deems that a suitable amount of time has passed for the adventure to have finished, roll on the approprite table below.
 
 <div style='margin-top:0px'></div>
 
-Unraveling a mystery in a quiet town, for example, might involve gathering information from the local residents (Social),
-finding a nearby cave (Exploration) and finishing off the adventure with a fight against the perpetrators (Combat).
+Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p5) and [Adventure difficulty](#p7).
 
-\page
+<div style='margin-top:0px'></div>
 
-<div class='pageNumber auto'></div>
+> ##### Example
+> A group of followers is close to completing their Challenge Rating 1 adventure.
+>
+> To track their progress the DM rolls a d100, with a result of 56. With a 56 the party
+> are going to fail their adventure and have to roll on the _Adventure Failure_ table.
+>
+> The player has, however, prepared them.
+>
+> With an investment pf 20gp they gain a +5 and they have been given one _follower item_ which gives them a further +5.
+>
+> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>56 + 5 + 5 = 66</div>
+>
+> With a 66 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
 
-## Adventure difficulty
+<div style='margin-top:120px'></div>
 
-Followers might be pitted against challenges that they could very likely overcome, given their levels. Likewise followers might be assigned a task far beyond their capabilities, perhaps out of necessity.
+<div class='wide'>
 
-When the party's level does not match the challenge rating of the adventure, an additional adventure roll modifier comes into play.
+##### Follower adventure result: Challenge 0-4
+| d100 | Result |
+|:----:|:-------------|
+| < 60 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 0-4_ table in [Appendix A](#p10) |
+| 60-70 | Adventure is delayed by d4 (2) days. |
+| > 70 | Task completed. Optionally, roll on the _Adventure success: Challenge 0-4_ table in [Appendix A](#p10) |
 
-<div class='descriptive'>
-To calculate the *Party level* of a group of followers, take the average level of the group, rounded down, with a minimum of 1.
-
-**Tip**: when the party's level matches the Adventure challenge rating, the difficult modifier is 0.
+##### Follower adventure result: Challenge 5-10
+| d100 | Result |
+|:----:|:-------------|
+| < 70 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
+| 70-80 | Adventure is delayed by d8 (4) days. |
+| > 80 | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
 </div>
 
-##### Adventure difficultymodifier
-| Party level | modifier |
-|:----:|:-------------:|
-| 1  | 10 x (1 - _Adventure challenge rating_) |
-| 2  | 10 x (2 - _Adventure challenge rating_) |
-| 3 | 10 x (3 - _Adventure challenge rating_) |
-| 4 | 10 x (4 - _Adventure challenge rating_) |
-| 5 | 10 x (5 - _Adventure challenge rating_) |
-| 6 | 10 x (6 - _Adventure challenge rating_) |
-| 7 | 10 x (7 - _Adventure challenge rating_) |
-| 8 | 10 x (8 - _Adventure challenge rating_) |
-| 9 | 10 x (9 - _Adventure challenge rating_) |
-| 10 | 10 x (10 - _Adventure challenge rating_) |
-
-> ##### Party size?
->
-> The exact number of followers is not factored into the _Adventure difficulty_ calculation.
->
-> It is assumed that an appropriate number of followers approach the task.
->
-> If too few, or too many, followers are sent on a task, consider adjusting the difficulty proportionally.
-> Instead, you could treat result as an auto-success, or auto-failure.
-
-<div style='margin-top:400px'></div>
-
-> ##### Amafrey's first adventure
-> Amafrey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
->
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>(2 + 1 + 1 + 1) / 4 = 1.25 = 1</div>
->
-> The party have been tasked with locating a shrine known to be hidden in a nearby, relatively safe, forest. The challenge rating of this exploration adventure is 2.
->
-> Party level 1 and Adventure challenge rating 2 results in:
->
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>10 x (1 - 2) = -10</div>
->
-> The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
->
-> <div style='margin-top:0px'></div>
->
-> **Tip**: This negative modifier can be offset by _player investment_ and _provided equipment_.
 \page
 
 <div class='pageNumber auto'></div>
@@ -832,6 +828,8 @@ ___
 > **Defender.** The sidekick can use their reaction to impose disadvantage on the attack roll of a creature within 5 feet of them whose target isn’t the sidekick, provided the sidekick can see the attacker.
 
 \page
+
+<div class='pageNumber auto'></div>
 
 <!-- [The HitPoints section of chapter 1 of the MM (https://www.dndbeyond.com/sources/mm/introduction#HitPoints)].
 suggest that a Small creature should have a hit die of d6. Looking at a halfling stat block such as https://www.dndbeyond.com/monsters/manafret-cherryport confirms this.
