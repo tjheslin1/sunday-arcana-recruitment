@@ -141,7 +141,7 @@ As a 1st-level Warrior, they gain saving throw, skill, weapon and armour profici
 Choose a Martial Role: Attack or Defender.
 
 > #### Warrior Example: _Amafrey_
-> Amafrey starts with the statistic of a Hobgoblin. Her statistics are re-rolled to: 9,13,9,18,9,9.
+> Amafrey starts with the statistic of a Hobgoblin. Her statistics are rerolled to: 9,13,9,18,9,9.
 > She is a Humanoid (Human), neutral good.
 >
 > She gains proficiency in Constitution saving throws, Athletics and Nature,
@@ -487,8 +487,8 @@ You can use _Flash of Genius_ to direct followers to take an otherwise unthought
 
 When you do so your follower, or followers, have a chance of completing their adventure in less time.
 
-When you roll on a _Follower adventure result_ table, if the roll results in _"Adventure is delayed by..."_,
-you re-roll, adding your Artificer level as an adventure roll modifier.
+The DM should factor this in when determining how long the adventure takes. Also, if rolling on a _Follower adventure result_ table, if the roll results in _"Adventure is delayed by..."_,
+you may reroll, adding your Artificer level as an adventure roll modifier.
 
 You cannot benefit from _Ingenious scheme_ more than once per adventure.
 
@@ -499,7 +499,7 @@ You cannot benefit from _Ingenious scheme_ more than once per adventure.
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-You can spend a point of rage to... inspire... one of your followers to succeed in their next adventure.
+You can spend a usage of rage to... inspire... one of your followers to succeed in their next adventure.
 
 The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p10), you can reroll; you must keep the new role.
 
@@ -550,8 +550,7 @@ _Prerequisite: at least one recruited follower_
 You can expend a use of your Wild Shape feature to guide followers within 50 miles of you on their travels.
 For the next 8 hours they can travel twice as far across any natural ground and ignore difficult terrain.
 
-Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths of a forest,
-a steady, sweet smelling, breeze that blows across fields towards a hidden mountain pass
+Your Wild Guide might take the form of a series of bird calls that guide your followers to the clearest paths through a forest, a steady, sweet smelling, breeze that blows across fields towards a hidden mountain pass
 or an anmial spirit that travels with the group for as long as they remain out of combat.
 
 ## Fighter
@@ -561,7 +560,7 @@ or an anmial spirit that travels with the group for as long as they remain out o
 _Prerequisite: at least one recruited follower_
 <div style='margin-top:0px'></div>
 
-A follower of yours has received martial training, including strategy.
+A follower of yours has received martial training, including how to strategise.
 
 With this guidance they are an ideal candidate as strategist of their party,
 and as such the party tends to be more organised, and successful.
@@ -616,8 +615,8 @@ An unreported adventure has the same chance of success as a if a small group of 
 unless the task would suffer significantly, such as requiring multiple events to take place at the same time
 in different locations.
 
-An unreported adventure might take the form of an undercover, intelligence gathering mission,
-an assassination or burglary, or travel to a location that requires speed and stealth.
+An unreported adventure might take the form of an undercover, intelligence gathering mission;
+an assassination or burglary; or travel to a location that requires stealth.
 
 ## Sorcerer
 
@@ -652,9 +651,8 @@ _Prerequisite: 15th-level warlock; at least one recruited follower_
 You can take this eldritch invocation multiple times.
 <div style='margin-top:0px'></div>
 
-Rather than wait until your patron extends an offer to those you have recruited,
-you strike a bargain with a follower of your choice and become their patron.
-Their arcane research and the magic bestowed by you increase, or otherwise grant, them facility with spells.
+You strike a bargain with a follower of your choice and become their patron.
+You grant them facility with spells.
 
 The creature gains a level, becoming a sidekick Spellcaster with the _Role_ of Prodigy.
 Any previous features of another type of sidekick are replaced by those gained as a Prodigy.
@@ -665,13 +663,17 @@ Having taken this pact with the player, the Prodigy chooses their spells from th
 <div style='margin-top:0px'></div>
 
 As patron of this follower:
-- You have advantage on Charsima ability checks, made to guide or convince your Prodigy provided that they can see or hear you within 60 feet.
+- You have advantage on Charsima ability checks made to guide or convince your Prodigy provided that they can see or hear you within 60 feet.
 
 <div style='margin-top:0px'></div>
 
 You cannot change this eldritch invocation whilst you have a pact with a follower.
 If the Prodigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
 another of your followers.
+
+<div style='margin-top:0px'></div>
+
+Taking this invocation multiple times allows the warlock to be the patron of multiple followers.
 
 > #### Prodigy Example: _Amafrey_
 > Amafrey has been following the Fathomless Warlock, Luth, for a few tendays; she has the statistics of a 1st-level Warrior sidekick. Amafrey awakes to the strange sensation of an offer of a pact with Luth.
