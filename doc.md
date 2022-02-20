@@ -501,7 +501,11 @@ _Prerequisite: at least one recruited follower_
 
 You can spend a usage of rage to... inspire... one of your followers to succeed in their next adventure.
 
-The next time the follower is involved in an adventure that results in rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p10), you can reroll; you must keep the new role.
+The degree of success of the followers next adventure is improved. For example, tasked with killing a group of Orcs, the inpsired follower is able to eliminate an escaping Orc, intent on call for help.
+
+Also, if rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p10), you can reroll; you must keep the new role.
+
+A failed adventure cannot be turned into a success through *Motivived by fear* , only the outcome of a successful adventure can be improved.
 
 ## Bard
 
