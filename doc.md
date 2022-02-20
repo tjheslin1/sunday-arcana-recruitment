@@ -310,7 +310,9 @@ that followers survive to achieve your goals and gain higher levels.
 
 <div style='margin-top:0px'></div>
 
-Followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise. The more the player invests in the adventure, the more likely it will be successful.
+When, and where, possible, followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
+
+The more the player invests in the adventure, the more likely it will be successful.
 
 <div class='descriptive'>
 To reduce tracking of funds, and overall simplicity, assume followers have spent all of their coin upon returning from an adventure.
@@ -331,7 +333,7 @@ such as sustenance, lodging and any money utilised to achieve the goal of the ad
 
 ### Follower item
 
-A _follower item_ is a magic item, or a set of non-magical adventuring gear above 75gp in value, that followers could likely utilise on an adventure increases their overall chance of success.
+A _follower item_ is a magic item, or a set of non-magical adventuring gear, above 75gp in value which followers could likely utilise on an adventure to increases their overall chance of success.
 
 These could be newly provided or items that the followers are already in the possession of.
 
@@ -390,7 +392,16 @@ the below tables contain example scenarios of social interaction, combat and exp
 | 4 | Successfully convince, or manipulate, a local leader. |
 
 ##### Combat Adventure
-Combat encounter building has already been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
+Since combat in a follower adventure is not intended to be played out, the DM is free to set an appropriate challenge rating based on the expected resistance the followers would face.
+
+For example, followers tasked with clearing out a haunted house full of Ghosts would face a greater challenge than those tasked with driving away a group of Goblins. As such the CR of the combat encounter would be higher.
+
+If the followers are destined to face a combat encounter originally intended for Player characters, the challenge rating should be based on the expected level of the Player characters, adjusted for party size.
+
+This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters., or the level they would be expected to be in a certain area.
+
+If the DM wants to build a specific encounter for the followers to face, tables for calculcating CR have
+been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
 
 ### A Combination?
 
@@ -459,7 +470,6 @@ To calculate the *Party level* of a group of followers, take the average level o
 > <div style='margin-top:0px'></div>
 >
 > **Tip**: This negative modifier can be offset by _player investment_ and _provided equipment_.
-
 \page
 
 <div class='pageNumber auto'></div>
