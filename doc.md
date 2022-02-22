@@ -264,7 +264,7 @@ the below tables contain example scenarios of social interaction, combat and exp
 | 1 | Explore a ruin. |
 | 2 | Explore a dungeon, possibly with a few traps non lethal traps. |
 | 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
-| 4 | Complete any, or all, of the adove whilst remaining undetected.|
+| 4 | Complete any, or all, of the above whilst remaining undetected.|
 
 ##### Social Interaction Adventure
 | Challenge rating | Example description |
@@ -280,8 +280,7 @@ Since combat in a follower adventure is not intended to be played out, the DM is
 For example, followers tasked with clearing out a haunted house full of Ghosts would face a greater challenge than those tasked with driving away a group of Goblins. As such the CR of the combat encounter would be higher.
 
 If the followers are destined to face a combat encounter originally intended for Player characters, the challenge rating should be based on the expected level of the Player characters, adjusted for party size.
-
-This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters., or the level they would be expected to be in a certain area.
+This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters, or the level they would be expected to be in a certain area.
 
 If the DM wants to build a specific encounter for the followers to face, tables for calculcating CR have
 been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
@@ -501,7 +500,7 @@ _Prerequisite: at least one recruited follower_
 
 You can spend a usage of rage to... inspire... one of your followers to succeed in their next adventure.
 
-The degree of success of the followers next adventure is improved. For example, tasked with killing a group of Orcs, the inpsired follower is able to eliminate an escaping Orc, intent on call for help.
+The degree of success of the followers next adventure is improved. For example, tasked with killing a group of Orcs, the inspired follower is able to eliminate an escaping Orc, intent on call for help.
 
 Also, if rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p10), you can reroll; you must keep the new role.
 
@@ -713,7 +712,7 @@ If the randomly determined outcome is not preferable, choose from one of the opt
 |:------:|:-------------|
 | 1-5 | Exhaustion. The party require 1d6 days to recover before beginning their next adventure. |
 | 6-24 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 25-29 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
+| 25-29 | A follower returns with an emaciated horse it has befriended. Though needing time to recover, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
 | 30-59 | 4d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 | 80-100 | 4d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
@@ -743,7 +742,7 @@ If the randomly determined outcome is not preferable, choose from one of the opt
 |:------:|:-------------|
 | 1-5 | Exhaustion. The party require 1d8 days to recover before beginning their next adventure. |
 | 6-24 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 25-29 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
+| 25-29 | A follower returns with an emaciated horse it has befriended. Though needing time to recover, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
 | 30-59 | 8d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 | 80-100 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
