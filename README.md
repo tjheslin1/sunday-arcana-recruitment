@@ -1,28 +1,6 @@
-<style>
-table th:first-of-type {
-    width: 20%;
-}
-</style>
-
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
-
-<div style='margin-top:450px;'></div>
-
 # Followers
 
-<div style='margin-top:25px'></div>
-<div class='wide'>
 ##### Guide the next generation of adventurers in the world's greatest roleplaying game
-</div>
-
-<div style='margin-top:100px'></div>
-
-\page
-
-<div class='pageNumber auto'></div>
 
 # Recruitment
 
@@ -32,25 +10,20 @@ come across followers who wish to join them and follow in their success.
 Followers might be bards who tell the stories of the character's conquests, warriors who fight for the same cause
 or priests who have come to join them in their beliefs.
 
-<div class='descriptive'>
+```
 The rules outlined here are intended for followers who persue their own goals, possibly their own adventures, which align with the desires of the player; not in joining the party directly.
-</div>
+```
 
 ## Optional Class Features
 
 ### Recruitment
 
 _10th-level feature_
-<div style='margin-top:0px'></div>
 
 When you reach this level, regardless of your, class or classes, you can start to recruit followers.
 
-<div style='margin-top:0px'></div>
-
 Followers start at 1st-level and have the statistics of a sidekick,
 detailed in [Tasha's Cauldron of Everything (TCoE)](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#Sidekicks).
-
-<div style='margin-top:0px'></div>
 
 Some example followers are:
 
@@ -68,13 +41,9 @@ daily expensive such as food and lodging, travel, adventuring gear, etc.
 
 ##### Required starting investment
 | Follower level | Funding |
-|:----:|:-------------|
+|:----:|:-------------:|
 | 1st  | 50gp |
 | Each level beyond 1st | additional 50gp |
-
-\page
-
-<div class='pageNumber auto'></div>
 
 # Creating a follower
 
@@ -82,11 +51,9 @@ The Dungeon Master's Tools chapter of
 [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/tcoe/dungeon-masters-tools#CreatingaSidekick)
 has the full guide on creating a sidekick. Below is a rough and quick guide to creating each type of sidekick.
 
-<div style='margin-top:50px'></div>
-
-<div class='descriptive'>
+```
 As a 1st-level sidekick, their hit points should be 1d8 (or 1d6 for a Small character) + their constitution modifier (minumum of 1).
-</div>
+```
 
 ## Expert
 
@@ -135,9 +102,59 @@ all armour as well as simple and martial weapons.
 >
 > Amafrey chooses Defender as her Martial Role.
 
-\page
+## Beyond 1st-level
 
-<div class='pageNumber auto'></div>
+Like any adventurer, followers learn and gain levels.
+
+The DM is free to choose how to track the levels of followers.
+
+If tracking experience points, the DM may prefer to follow this method.
+Otherwise, milestone based progression is a convenient way of tracking follower progression.
+
+Both success and failure provide experience, as such treat all completed adventures
+as worthy of granting experience or progressing in milestones.
+
+### Optional: Milestone progression by task
+
+The following table below assumes that a completed adventure is a mostly equal match between
+Adventure CR and follower level/Party level.
+
+The table deals with a count of individual adventuring tasks, of which an adventure may be comprised of many.
+
+For example, an adventure may have been comprised of an exploration task to find a hidden location
+and a combat enounter to deal with a group of enemies.
+
+##### Suggested milestone progression
+| Follower/Party level | Total number of adventurering tasks completed |
+|:----:|:-------------:|
+|  1st  |  0 |
+|  2nd  |  2 |
+|  3rd  |  5 |
+|  4th  |  9 |
+|  5th  | 14 |
+|  6th  | 20 |
+|  7th  | 27 |
+|  8th  | 35 |
+|  9th  | 44 |
+| 10th  | 54 |
+
+> #### Adventure Example: Amafrey's Epic
+> Amafrey and company are tasked with dealing with a group of Bandits
+> and retrieving what they stole.
+>
+> Finding the Bandits, in hiding, requires the Party explore the wilderness
+> the Bandits are believed to be held out in.
+>
+> Once found, Amafrey and company face tough negotations with the Bandits,
+> as the Player character they follow issued strict instructions not to fight the Bandits.
+>
+> **Tip**: Since both success and failure provide experience,
+> if the Party failed to come to an agreement with the Bandits,
+> they are still eligible for a completed Social Interaction task
+> to reflect their efforts and attempt; failure is a good teacher.
+>
+> With the adventure complete, the Party now have two adventuring tasks under the belt.
+> This would be enough to advance them to 2nd-level.
 
 # Follower adventures
 
@@ -146,12 +163,8 @@ or hunting down a desired artifact; prayer at a local temple, in service to your
 at an office established by the player or a university; or any other task that the player
 has deemed a worthy endeavour for them.
 
-<div style='margin-top:0px'></div>
-
 Followers not dedicated to a task such as these will likely spend their time
 adventuring. Their quests typically asigned by the player they follow and aligned with their goals.
-
-<div style='margin-top:0px'></div>
 
 Followers may adventure to:
 
@@ -161,19 +174,17 @@ Followers may adventure to:
 
 - Deliver a message of ill omen on behalf of the player.
 
-<div style='margin-top:0px'></div>  
-
 ## Step by step: Building an adventure
 
 Below is a step-by-step guide to building a follower adventure.
 
 Subsequent sections will go into detail of each step.
 
-<div class='descriptive'>
+```
 Adventures undertaken by the followers are not intended to be played out.
 
 Instead, the DM should roll a d100, factoring in modifiers based on difficulty and preparation, to determine the outcome once enough time has passed for the followers to likely have completed their task.
-</div>
+```
 
 ### Step 1: Party level
 
@@ -189,21 +200,40 @@ Example Exploration and Social Interaction adventures are outlined for compariso
 
 Calculate the adventure difficulty modifier using the *Party level* and Adventure CR:
 
-<div style='margin-top:0px; margin-left:20px; font-family:consolas'>Adventure modifier = 10 x (Party level - Adventure CR)</div>
+```
+Adventure modifier = 10 x (Party level - Adventure CR)
+```
 
 When the *Party level* matches the Adventure CR, the difficult modifier is 0.
 
 ### Step 4a: Follower items modifier
 
+Account for any magic items in the Party's possession that would like help them in their adventure.
+
+A set of non-magical adventuring gear, above 75gp, that would also be useful, counts as a _follower item_.
+
+Refer to the **Provided follower items** table in [Preparation](#p8) for calculating the _Follower item modifier_.
+
 ### Step 4b Player investment modifier
+
+Account for any coin provided to the Party to aid in their adventure.
+
+Coin allows the followers to live comfortably on their travels, pay for food,
+repairs and covers other adventuring costs such as bribing for information.
+
+Refer to the **Player investment** table in [Preparation](#p8) for calculating the _Player investment modifier_.
+
+**Tip**: All provided coin is assumed to have been spent in aid of successfully completed follower adventures.
 
 ### Step 5: Final modifier
 
-Determine the final roll modifier. Start with the positive follower item modifier in addition to the player monetary investment modifier.
+Determine the final roll modifier. Start with the positive _Follower item modifier_ in addition to the player monetary investment modifier.
 
 Then add or subtract, depending on the challenge the followers will be facing, the adventure difficulty modifier:
 
-<div style='margin-top:0px; margin-left:20px; font-family:consolas; font-size: 11px;'>Final modifier = <br />Follower item modifier + Player investment modifier + Adventure modifier</div>
+```
+Final modifier = Follower item modifier + Player investment modifier + Adventure modifier
+```
 
 ### Step 6: Adventure takes place
 
@@ -217,10 +247,6 @@ It is possible that the roll results in the adventure being delayed. In which ca
 
 The DM decides the fate of the followers and their adventure. The DM may choose to follow on **Follower adventure outcome** table in Appendix A, which detail rewards and ramifications based on the adventure conclusion.
 
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Party level
 
 To calculate the *Party level* of a group of followers, take the average level of the group, rounded down, with a minimum of 1.
@@ -233,8 +259,6 @@ Some follower adventures will have a clear challenge rating.
 If a task set to a group of followers was originally designed for players,
 the group will have a good chance of succeeding if they are of the same level that the encounter was expecting.
 
-<div style='margin-top:0px'></div>
-
 Not all adventures will be this clear to determine their difficulty;
 the below tables contain example scenarios of social interaction, combat and exploration adventures to compare to.
 
@@ -244,7 +268,7 @@ the below tables contain example scenarios of social interaction, combat and exp
 | 1 | Explore a ruin. |
 | 2 | Explore a dungeon, possibly with a few traps non lethal traps. |
 | 3 | Explore, and map, an area of wilderness; identifying local fauna and flora as well as any structures. |
-| 4 | Complete any, or all, of the adove whilst remaining undetected.|
+| 4 | Complete any, or all, of the above whilst remaining undetected.|
 
 ##### Social Interaction Adventure
 | Challenge rating | Example description |
@@ -260,8 +284,7 @@ Since combat in a follower adventure is not intended to be played out, the DM is
 For example, followers tasked with clearing out a haunted house full of Ghosts would face a greater challenge than those tasked with driving away a group of Goblins. As such the CR of the combat encounter would be higher.
 
 If the followers are destined to face a combat encounter originally intended for Player characters, the challenge rating should be based on the expected level of the Player characters, adjusted for party size.
-
-This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters., or the level they would be expected to be in a certain area.
+This can quickly be determined by reviewing the expected level that the Player's would expect to face certain monsters, or the level they would be expected to be in a certain area.
 
 If the DM wants to build a specific encounter for the followers to face, tables for calculcating CR have
 been outlined in the **XP Thresholds by Character Level** table in the [Dungeon Master's Guide (DMG)](https://www.dndbeyond.com/sources/dmg/creating-adventures#XPThresholdsbyCharacterLevel) and the **Solo Monster Challenge Rating** table of [Xanathar's Guide to Everything (XgtE)](Solo Monster Challenge Rating).
@@ -271,14 +294,8 @@ been outlined in the **XP Thresholds by Character Level** table in the [Dungeon 
 If the intended task requires two, or even all three of the pillars of adventure,
 the challenge rating of the overall adventure should either be equal to the highest individual challenge rating, if this takes up a significant propoprtion of the parties time; or an average, rounded up, of the individual tasks that comprise the adventure.
 
-<div style='margin-top:0px'></div>
-
 Unraveling a mystery in a quiet town, for example, might involve gathering information from the local residents (Social),
 finding a nearby cave (Exploration) and finishing off the adventure with a fight against the perpetrators (Combat).
-
-\page
-
-<div class='pageNumber auto'></div>
 
 ## Adventure difficulty
 
@@ -309,28 +326,20 @@ When the party's level does not match the challenge rating of the adventure, an 
 > If too few, or too many, followers are sent on a task, consider adjusting the difficulty proportionally.
 > Instead, you could treat result as an auto-success, or auto-failure.
 
-<div style='margin-top:400px'></div>
-
 > ##### Amafrey's first adventure
 > Amafrey, a 2nd-level Spellcaster, is adventuring with three companions, all of 1st-level; their party level is 1.
 >
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>(2 + 1 + 1 + 1) / 4 = 1.25 = 1</div>
+> ```(2 + 1 + 1 + 1) / 4 = 1.25 = 1```
 >
 > The party have been tasked with locating a shrine known to be hidden in a nearby, relatively safe, forest. The challenge rating of this exploration adventure is 2.
 >
 > Party level 1 and Adventure challenge rating 2 results in:
 >
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>10 x (1 - 2) = -10</div>
+> ```10 x (1 - 2) = -10```
 >
-> The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
->
-> <div style='margin-top:0px'></div>
+> The relatively challenging task of locating this shrine adds a -10 (negative) modifier to the d100 roll to determining the outcome.
 >
 > **Tip**: This negative modifier can be offset by _player investment_ and _provided equipment_.
-
-\page
-
-<div class='pageNumber auto'></div>
 
 ## Preparation
 
@@ -340,33 +349,8 @@ and quick, end.
 Luck also plays an element, but can be influenced in the right, or wrong,
 direction.
 
-<div style='margin-top:0px'></div>
-
-Beyond the [Required starting investment](#p2), any additional funding increases the likelihood
+Beyond the [Required starting investment](#p2), any additional investment increases the likelihood
 that followers survive to achieve your goals and gain higher levels.
-
-<div style='margin-top:0px'></div>
-
-When, and where, possible, followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
-
-The more the player invests in the adventure, the more likely it will be successful.
-
-<div class='descriptive'>
-To reduce tracking of funds, and overall simplicity, assume followers have spent all of their coin upon returning from an adventure.
-
-This expenditure covers their preparation ahead of the adventure as well as costs incurred during,
-such as sustenance, lodging and any money utilised to achieve the goal of the adventure, such as bribing a guard to let them pass.
-</div>
-
-##### Player investment
-| Adventure roll modifier | Player investment |
-|:----:|:-------------:|
-| -5 | None |
-| +5 | _Adventure challenge raiting_ x 5gp |
-| +10 | _Adventure challenge raiting_ x 25gp |
-| +20 | _Adventure challenge raiting_ x 50gp |
-
-<div style='margin-top:400px'></div>
 
 ### Follower item
 
@@ -376,7 +360,7 @@ These could be newly provided or items that the followers are already in the pos
 
 Unlike Player investement of coin, with the exception of consumables, _follower items_ remain in the possession of the follower adventurers unless explicitly lost or destroyed.
 
-##### Provided equipment
+##### Provided follower items
 | Adventure roll modifier | Number of _follower items_ |
 |:----:|:-------------:|
 | -5 | 0 |
@@ -393,13 +377,38 @@ necessary to copy new spells into their spellbook.
 given a [_**potion of invisibility**_](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
 to increase their chance of success.
 
-<!-- With guidance from the player and a possible monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing), followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise. -->
+> #### Example: Amafrey's follower items
+> Amafrey and company are in possession of one of a pair of [Sending Stones](https://www.dndbeyond.com/magic-items/sending-stones).
+> Through which they communicate with the Player character they follow.
+>
+> For most adventures this particular magic item would not count towards the number of _follower items_ in the Party's possession
+> as it does not provide a tangible benefit for most adventures.
+>
+> Their supplied [Potion of Healing (Greater)](https://www.dndbeyond.com/magic-items/potion-of-healing-greater)
+> and Amafrey's [Breastplate](https://www.dndbeyond.com/equipment/breastplate) (being over 75gp in value) both count as _follower items_.
+>
+> This would grant them a +10 to the _Follower item modifier_.
 
-<!-- Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve. -->
+### Player investment
 
-\page
+When, and where, possible, followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
 
-<div class='pageNumber auto'></div>
+The more the player invests in the adventure, the more likely it will be successful.
+
+```
+To reduce tracking of funds, and overall simplicity, assume followers have spent all of their coin upon returning from an adventure.
+
+This expenditure covers their preparation ahead of the adventure as well as costs incurred during,
+such as sustenance, lodging and any money utilised to achieve the goal of the adventure, such as bribing a guard to let them pass.
+```
+
+##### Player investment
+| Adventure roll modifier | Player investment |
+|:----:|:-------------:|
+| -5 | None |
+| +5 | _Adventure challenge rating_ x 5gp |
+| +10 | _Adventure challenge rating_ x 25gp |
+| +20 | _Adventure challenge rating_ x 50gp |
 
 ## Outcome
 
@@ -407,11 +416,7 @@ to increase their chance of success.
 
 To determine the success or failure of a follower's adventure, when the Dungeon Master (DM) deems that a suitable amount of time has passed for the adventure to have finished, roll on the approprite table below.
 
-<div style='margin-top:0px'></div>
-
 Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p5) and [Adventure difficulty](#p7).
-
-<div style='margin-top:0px'></div>
 
 > ##### Example
 > A group of followers is close to completing their Challenge Rating 1 adventure.
@@ -423,13 +428,9 @@ Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p
 >
 > With an investment pf 20gp they gain a +5 and they have been given one _follower item_ which gives them a further +5.
 >
-> <div style='margin-top:0px; margin-left:20px; font-family:consolas'>56 + 5 + 5 = 66</div>
+> ```56 + 5 + 5 = 66```
 >
 > With a 66 the party live to adventure for another day! Their adventure is instead delayed by d4 days, after which time the DM can roll another d100, adding the same +10 modifier.
-
-<div style='margin-top:120px'></div>
-
-<div class='wide'>
 
 ##### Follower adventure result: Challenge 0-4
 | d100 | Result |
@@ -444,11 +445,6 @@ Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p
 | < 70 | Task not completed. Optionally, roll on the _Adventure failure: Challenge 5-10_ table in [Appendix A](#p10) |
 | 70-80 | Adventure is delayed by d8 (4) days. |
 | > 80 | Task completed. Optionally, roll on the _Adventure success: Challenge 5-10_ table in [Appendix A](#p10) |
-</div>
-
-\page
-
-<div class='pageNumber auto'></div>
 
 # Interacting with followers
 
@@ -459,7 +455,6 @@ Modifiers to the roll include: [Player investment](#p5), [Provided equipment](#p
 ### Ingenious scheme
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 Just as followers of yours are about to set out on an adventure, you are struck with an ingenious idea.
 
@@ -477,11 +472,10 @@ You cannot benefit from _Ingenious scheme_ more than once per adventure.
 ### Motivated by fear
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You can spend a usage of rage to... inspire... one of your followers to succeed in their next adventure.
 
-The degree of success of the followers next adventure is improved. For example, tasked with killing a group of Orcs, the inpsired follower is able to eliminate an escaping Orc, intent on call for help.
+The degree of success of the followers next adventure is improved. For example, tasked with killing a group of Orcs, the inspired follower is able to eliminate an escaping Orc, intent on call for help.
 
 Also, if rolling on one of the _Follower adventure outcome_ tables in [Appendix A](#p10), you can reroll; you must keep the new role.
 
@@ -492,7 +486,6 @@ A failed adventure cannot be turned into a success through *Motivived by fear* ,
 ### Influential network
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You have vouched for a follower of your choice to join a network of bards that can be used to gather,
 and propagate, information.
@@ -510,7 +503,6 @@ parties interested in receiving the exclusive contract.
 ### Channel Divinity: Unbreakable devotion
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You can use your Channel Divinity to reassert the benefits of devotion to your diety.
 
@@ -525,7 +517,6 @@ possiblly as a result when rolling on an _Adventure failure_ table in [Appendix 
 ### Wild guide
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You can expend a use of your Wild Shape feature to guide followers within 50 miles of you on their travels.
 For the next 8 hours they can travel twice as far across any natural ground and ignore difficult terrain.
@@ -538,7 +529,6 @@ or an anmial spirit that travels with the group for as long as they remain out o
 ### Party strategist
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 A follower of yours has received martial training, including how to strategise.
 
@@ -552,25 +542,18 @@ The challenge rating of Combat-based adventures this follower takes part in is d
 ### ?
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 ## Paladin
 
 ### ?
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
-
-\page
-
-<div class='pageNumber auto'></div>
 
 ## Ranger
 
 ### Gifted navigator
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 A follower of yours has been bestowed a deeper appreciation of the surrounding natural environment.
 
@@ -583,7 +566,6 @@ The challenge rating of Exploration-based adventures this follower takes part in
 ### Unreported adventure
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You can direct a follower of your choice to undertake a solo adventure,
 drawing from your experience to guide them to success without the reliance of others.
@@ -603,7 +585,6 @@ an assassination or burglary; or travel to a location that requires stealth.
 ### ?
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 ## Warlock
 
@@ -614,7 +595,6 @@ When you choose eldritch invocations, you have access to these additional option
 #### Worldly message
 
 _Prerequisite: 10th-level warlock; at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You can cast [_**dream**_](https://www.dndbeyond.com/spells/dream) once,
 targeting one of your followers without expending a spell slot. You regain the ability to do so when you finish a long rest.
@@ -622,10 +602,8 @@ targeting one of your followers without expending a spell slot. You regain the a
 #### Patron of this world
 
 _Prerequisite: 15th-level warlock; at least one recruited follower_
-<div style='margin-top:0px'></div>
 
 You can take this eldritch invocation multiple times.
-<div style='margin-top:0px'></div>
 
 You strike a bargain with a follower of your choice and become their patron.
 You grant them facility with spells.
@@ -636,18 +614,12 @@ Any existing weapon, armour and tool proficiencies remain, with the exception of
 
 Having taken this pact with the player, the Prodigy chooses their spells from the warlock spell list.
 
-<div style='margin-top:0px'></div>
-
 As patron of this follower:
 - You have advantage on Charsima ability checks made to guide or convince your Prodigy provided that they can see or hear you within 60 feet.
-
-<div style='margin-top:0px'></div>
 
 You cannot change this eldritch invocation whilst you have a pact with a follower.
 If the Prodigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
 another of your followers.
-
-<div style='margin-top:0px'></div>
 
 Taking this invocation multiple times allows the warlock to be the patron of multiple followers.
 
@@ -667,11 +639,6 @@ Taking this invocation multiple times allows the warlock to be the patron of mul
 ### ?
 
 _Prerequisite: at least one recruited follower_
-<div style='margin-top:0px'></div>
-
-\page
-
-<div class='pageNumber auto'></div>
 
 # Appendix A: Follower adventure outcome
 
@@ -679,19 +646,16 @@ The following tables can be used to add further results beyond the outcome of th
 
 If the randomly determined outcome is not preferable, choose from one of the options of a lower roll. Alternatively, roll again!
 
-<div class='wide'>
 ### Adventure success: Challenge 0-4
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-5 | Exhaustion. The party require 1d6 days to recover before beginning their next adventure. |
 | 6-24 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 25-29 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
+| 25-29 | A follower returns with an emaciated horse it has befriended. Though needing time to recover, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
 | 30-59 | 4d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 | 80-100 | 4d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
-</div>
 
-<div class='wide'>
 ### Adventure failure: Challenge 0-4
 | d100 | Outcome |
 |:------:|:-------------|
@@ -703,25 +667,17 @@ If the randomly determined outcome is not preferable, choose from one of the opt
 | 90-94 | One follower leaves the party out of fear. |
 | 95-99 | One follower dies. |
 | 100 | Total party kill of followers. |
-</div>
 
-\page
-
-<div class='pageNumber auto'></div>
-
-<div class='wide'>
 ### Adventure success: Challenge 5-10
 | d100 | Outcome |
 |:------:|:-------------|
 | 1-5 | Exhaustion. The party require 1d8 days to recover before beginning their next adventure. |
 | 6-24 | Expenditure on the adventure is recouped. One follower gains a small scar and rolls on the [trinket table](https://www.dndbeyond.com/sources/basic-rules/equipment#SampleTrinkets) for an item which commemorates the adventure. |
-| 25-29 | A follower returns with an emaciated horse it has befriended. Despite needing recovery, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
+| 25-29 | A follower returns with an emaciated horse it has befriended. Though needing time to recover, it is a brave and reliable steed, with the exception that it has an extreme aversion to the sea and any other source of salt water. |
 | 30-59 | 8d10gp obtained. |
 | 60-79 | Roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
 | 80-100 | 8d10 gp and roll once on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) of the DMG to determine an obtained magic item. |
-</div>
 
-<div class='wide'>
 ### Adventure failure: Challenge 5-10
 | d100 | Outcome |
 |:------:|:-------------|
@@ -733,11 +689,6 @@ If the randomly determined outcome is not preferable, choose from one of the opt
 | 90-94 | One follower leaves the party out of fear. |
 | 95-99 | One follower dies. |
 | 100 | Total party kill of followers. |
-</div>
-
-\page
-
-<div class='pageNumber auto'></div>
 
 # Appendix B: Example followers
 
@@ -767,8 +718,6 @@ ___
 >1st level (2 slots): [_**armor of agathys**_](https://www.dndbeyond.com/spells/armor-of-agathys), [_**hex**_](https://www.dndbeyond.com/spells/hex)
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
-
-<div style='margin-top:400px'></div>
 
 ## Warrior
 ___
@@ -801,10 +750,6 @@ ___
 > ### Reactions
 > **Defender.** The sidekick can use their reaction to impose disadvantage on the attack roll of a creature within 5 feet of them whose target isn’t the sidekick, provided the sidekick can see the attacker.
 
-\page
-
-<div class='pageNumber auto'></div>
-
 <!-- [The HitPoints section of chapter 1 of the MM (https://www.dndbeyond.com/sources/mm/introduction#HitPoints)].
 suggest that a Small creature should have a hit die of d6. Looking at a halfling stat block such as https://www.dndbeyond.com/monsters/manafret-cherryport confirms this.
 
@@ -812,7 +757,6 @@ Whilst the Expert stat block (https://www.dndbeyond.com/monsters/expert) states 
 
 Going by the idea of reworking an existing stat block into a sidekick I think it's safe to assume this has been done for Cade, the Halfling.
  -->
-<div class='pageNumber auto'></div>
 
 ## Expert
 ___
@@ -843,8 +787,6 @@ ___
 > ***Naturally Stealthy.*** They can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 > ### Actions
 > ***Dagger.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5ft. or range 20/60 ft., one target. *Hit* 3 (1d4 + 1) piercing damage.
-
-<div style='margin-top:400px'></div>
 
 ## Spellcaster (Mage)
 ___
