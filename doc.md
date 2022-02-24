@@ -78,7 +78,7 @@ daily expensive such as food and lodging, travel, adventuring gear, etc.
 
 ##### Required starting investment
 | Follower level | Funding |
-|:----:|:-------------|
+|:----:|:-------------:|
 | 1st  | 50gp |
 | Each level beyond 1st | additional 50gp |
 
@@ -148,6 +148,43 @@ Choose a Martial Role: Attack or Defender.
 all armour as well as simple and martial weapons.
 >
 > Amafrey chooses Defender as her Martial Role.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Beyond 1st-level
+
+Like any adventurer, followers learn and gain levels.
+
+The DM is free to choose how to track the levels of followers.
+
+If tracking experience points, the DM may prefer to follower this method.
+Otherwise, milestone based progression is a convenient way of tracking follower progression.
+
+Both success and failure provide experience, as such treat all completed adventures
+as worthy of granting experience or progressing in milestones, inclluding in the table below.
+
+The number of adventures completed below assumes a mostly equal match between
+Adventure CR and follower level/Party level, it also assumes that an adventure poses a singlular challenge,
+such as an exploration adventure to find a hidden location or a combat enounter to deal with a group of enemies.
+
+If the DM decides that an adventure undertaken by the party was comprised of a series of challenges,
+they may progress the followers through multiple 
+
+##### Suggested milestone progression
+| Follower/Party level | Total number of adventurers completed |
+|:----:|:-------------:|
+|  1st  |  0 |
+|  2nd  |  2 |
+|  3rd  |  5 |
+|  4th  |  9 |
+|  5th  | 14 |
+|  6th  | 20 |
+|  7th  | 27 |
+|  8th  | 35 |
+|  9th  | 44 |
+| 10th  | 54 |
 
 <div style='overflow: hidden; position: absolute; bottom:10px; right:50px; width:250px'>
 <img
