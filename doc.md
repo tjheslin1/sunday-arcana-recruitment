@@ -442,31 +442,8 @@ direction.
 
 <div style='margin-top:0px'></div>
 
-Beyond the [Required starting investment](#p2), any additional funding increases the likelihood
+Beyond the [Required starting investment](#p2), any additional investment increases the likelihood
 that followers survive to achieve your goals and gain higher levels.
-
-<div style='margin-top:0px'></div>
-
-When, and where, possible, followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
-
-The more the player invests in the adventure, the more likely it will be successful.
-
-<div class='descriptive'>
-To reduce tracking of funds, and overall simplicity, assume followers have spent all of their coin upon returning from an adventure.
-
-This expenditure covers their preparation ahead of the adventure as well as costs incurred during,
-such as sustenance, lodging and any money utilised to achieve the goal of the adventure, such as bribing a guard to let them pass.
-</div>
-
-##### Player investment
-| Adventure roll modifier | Player investment |
-|:----:|:-------------:|
-| -5 | None |
-| +5 | _Adventure challenge raiting_ x 5gp |
-| +10 | _Adventure challenge raiting_ x 25gp |
-| +20 | _Adventure challenge raiting_ x 50gp |
-
-<div style='margin-top:400px'></div>
 
 ### Follower item
 
@@ -493,9 +470,42 @@ necessary to copy new spells into their spellbook.
 given a [_**potion of invisibility**_](https://www.dndbeyond.com/magic-items/potion-of-invisibility)
 to increase their chance of success.
 
-<!-- With guidance from the player and a possible monetary investment followers are better able to take on the challenges posed by an adventure. If not directly supplied with useful magic items such as a [_**potion of healing**_](https://www.dndbeyond.com/magic-items/potion-of-healing), followers will use any coin provided to prepare themselves with such items, unless directed to do otherwise. -->
+<div style='margin-top:400px'></div>
 
-<!-- Followers might be in possession of magic items that they can use in many adventures; this could be a [_**+1 longsword**_](https://www.dndbeyond.com/magic-items/longsword-1) that a follower came into possession of during their last adventure and the player allowed them to keep; or a [_**driftglobe**_](https://www.dndbeyond.com/magic-items/driftglobe) the followers relied upon in their last dungeon delve. -->
+> #### Example: Amafrey's follower items
+> Amafrey and company are in possession of one of a pair of [Sending Stones](https://www.dndbeyond.com/magic-items/sending-stones).
+> Through which they communicate with the Player character they follow.
+>
+> For most adventures this particular magic item would not count towards the number of _follower items_ in the Party's possession
+> as it does not provide a tangible benefit for most adventures.
+>
+> <div style='margin-top:0px'></div>
+>
+> Their supplied [Potion of Healing (Greater)](https://www.dndbeyond.com/magic-items/potion-of-healing-greater)
+> and Amafrey's [Breastplate](https://www.dndbeyond.com/equipment/breastplate) (being over 75gp in value) both count as _follower items_.
+>
+> This would grant them a +10 to the _Follower item modifier_.
+
+### Player investment
+
+When, and where, possible, followers will use any coin provided to prepare themselves with items such a rations and potions, unless directed to do otherwise.
+
+The more the player invests in the adventure, the more likely it will be successful.
+
+<div class='descriptive'>
+To reduce tracking of funds, and overall simplicity, assume followers have spent all of their coin upon returning from an adventure.
+
+This expenditure covers their preparation ahead of the adventure as well as costs incurred during,
+such as sustenance, lodging and any money utilised to achieve the goal of the adventure, such as bribing a guard to let them pass.
+</div>
+
+##### Player investment
+| Adventure roll modifier | Player investment |
+|:----:|:-------------:|
+| -5 | None |
+| +5 | _Adventure challenge rating_ x 5gp |
+| +10 | _Adventure challenge rating_ x 25gp |
+| +20 | _Adventure challenge rating_ x 50gp |
 
 \page
 
