@@ -165,12 +165,15 @@ Otherwise, milestone based progression is a convenient way of tracking follower 
 Both success and failure provide experience, as such treat all completed adventures
 as worthy of granting experience or progressing in milestones.
 
-The number of adventures completed below assumes a mostly equal match between
-Adventure CR and follower level/Party level, it also assumes that an adventure poses a singlular challenge,
-such as an exploration adventure to find a hidden location or a combat enounter to deal with a group of enemies.
+### Optional: Milestone progression by task
 
-If the DM decides that an adventure undertaken by the party was comprised of a series of challenges,
-they may progress the followers through multiple 
+The following table below assumes that a completed adventure is a mostly equal match between
+Adventure CR and follower level/Party level.
+
+The table deals with a count of individual adventuring tasks, of which an adventure may be comprised of many.
+
+For example, an adventure may have been comprised of an exploration task to find a hidden location
+and a combat enounter to deal with a group of enemies.
 
 ##### Suggested milestone progression
 | Follower/Party level | Total number of adventurering tasks completed |
@@ -185,6 +188,30 @@ they may progress the followers through multiple
 |  8th  | 35 |
 |  9th  | 44 |
 | 10th  | 54 |
+
+<div style='margin-top:400px'></div>
+
+> #### Adventure Example: Amafrey's Epic
+> Amafrey and company are tasked with dealing with a group of Bandits
+> and retrieving what they stole.
+>
+> Finding the Bandits, in hiding, requires the Party explore the wilderness
+> the Bandits are believed to be held out in.
+>
+> Once found, Amafrey and company face tough negotations with the Bandits,
+> as the Player character they follow issued strict instructions not to fight the Bandits.
+>
+> <div style='margin-top:0px'></div>
+>
+> **Tip**: Since both success and failure provide experience,
+> if the Party failed to come to an agreement with the Bandits,
+> they are still eligible for a completed Social Interaction task
+> to reflect their efforts and attempt; failure is a good teacher.
+>
+> <div style='margin-top:0px'></div>
+>
+> With the adventure complete, the Party now have two adventuring tasks under the belt.
+> This would be enough to advance them to 2nd-level.
 
 <div style='overflow: hidden; position: absolute; bottom:10px; right:50px; width:250px'>
 <img
