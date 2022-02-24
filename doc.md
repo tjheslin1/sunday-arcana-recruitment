@@ -159,11 +159,11 @@ Like any adventurer, followers learn and gain levels.
 
 The DM is free to choose how to track the levels of followers.
 
-If tracking experience points, the DM may prefer to follower this method.
+If tracking experience points, the DM may prefer to follow this method.
 Otherwise, milestone based progression is a convenient way of tracking follower progression.
 
 Both success and failure provide experience, as such treat all completed adventures
-as worthy of granting experience or progressing in milestones, inclluding in the table below.
+as worthy of granting experience or progressing in milestones.
 
 The number of adventures completed below assumes a mostly equal match between
 Adventure CR and follower level/Party level, it also assumes that an adventure poses a singlular challenge,
@@ -173,7 +173,7 @@ If the DM decides that an adventure undertaken by the party was comprised of a s
 they may progress the followers through multiple 
 
 ##### Suggested milestone progression
-| Follower/Party level | Total number of adventurers completed |
+| Follower/Party level | Total number of adventurering tasks completed |
 |:----:|:-------------:|
 |  1st  |  0 |
 |  2nd  |  2 |
@@ -250,13 +250,30 @@ Calculate the adventure difficulty modifier using the *Party level* and Adventur
 
 When the *Party level* matches the Adventure CR, the difficult modifier is 0.
 
+<div style='margin-top:400px'></div>
+
 ### Step 4a: Follower items modifier
+
+Account for any magic items in the Party's possession that would like help them in their adventure.
+
+A set of non-magical adventuring gear, above 75gp, that would also be useful, counts as a _follower item_.
+
+Refer to the **Provided follower items** table in [Preparation](#p8) for calculating the _Follower item modifier_.
 
 ### Step 4b Player investment modifier
 
+Account for any coin provided to the Party to aid in their adventure.
+
+Coin allows the followers to live comfortably on their travels, pay for food,
+repairs and covers other adventuring costs such as bribing for information.
+
+Refer to the **Player investment** table in [Preparation](#p8) for calculating the _Player investment modifier_.
+
+**Tip**: All provided coin is assumed to have been spent in aid of successfully completed follower adventures.
+
 ### Step 5: Final modifier
 
-Determine the final roll modifier. Start with the positive follower item modifier in addition to the player monetary investment modifier.
+Determine the final roll modifier. Start with the positive _Follower item modifier_ in addition to the player monetary investment modifier.
 
 Then add or subtract, depending on the challenge the followers will be facing, the adventure difficulty modifier:
 
@@ -378,7 +395,7 @@ When the party's level does not match the challenge rating of the adventure, an 
 >
 > <div style='margin-top:0px; margin-left:20px; font-family:consolas'>10 x (1 - 2) = -10</div>
 >
-> The relatively challenging task of locating this shrine adds a negative 10 modifier to the d100 roll to determining the outcome.
+> The relatively challenging task of locating this shrine adds a -10 (negative) modifier to the d100 roll to determining the outcome.
 >
 > <div style='margin-top:0px'></div>
 >
@@ -432,7 +449,7 @@ These could be newly provided or items that the followers are already in the pos
 
 Unlike Player investement of coin, with the exception of consumables, _follower items_ remain in the possession of the follower adventurers unless explicitly lost or destroyed.
 
-##### Provided equipment
+##### Provided follower items
 | Adventure roll modifier | Number of _follower items_ |
 |:----:|:-------------:|
 | -5 | 0 |
