@@ -762,7 +762,7 @@ As patron of this follower:
 <div style='margin-top:0px'></div>
 
 You cannot change this eldritch invocation whilst you have a pact with a follower.
-If the Prodigy you have made a pact with dies, from the next dusk you can offer the pact from this eldritch invocation to
+If the Prodigy you have made a pact with dies, from the next day you can offer the pact from this eldritch invocation to
 another of your followers.
 
 <div style='margin-top:0px'></div>
